@@ -18,7 +18,7 @@ The MBAn program is very accelerated and the professors may not have time to cov
 
 ## Problem Statement
 
-MBAn students are not knowledgeable about how to communicate effectively in the corporate world. 
+Prospective MBAn students are not knowledgeable about how to communicate effectively in the corporate world. It is difficult for them to adapt to the team-cooperating environment of the MBAn program and further to their careers. Also, they have few ideas about the available team management software and tools which can make their lives easier.
 
 ## Potential Solutions
 
