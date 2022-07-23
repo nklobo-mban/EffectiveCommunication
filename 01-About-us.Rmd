@@ -1,0 +1,17 @@
+# About Us {#author}
+
+Hi! We are Team 4Ward! Excited to meet you all! Before our journey to the guidance, we would like to introduce ourselves to you, and of course, if you have any questions about this guidance, don't hesitate to contact us! 
+
+<div align= "center"><img src="\Users\62588\Desktop\GO BLUE!!!\MBAn501\Project\EffectiveCommunication\Figures\4WARD.jpg" width="450" height="600" />
+
+Fig.2 Team 4WARD
+</div>
+
+## Yuzhou Zhai
+
+Hi! I'm Yuzhou Zhai, from Shanghai, China. I'm a Graduate student majoring in Business Analytics at University of Michigan - Stephen M. Ross School of Business. I Graduated from Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering, with a minor in Data Science. I'm an Energetic and creative student leader with proven abilities of managing large teams and organizing events. I am Deeply passionate about studying and leveraging data analytical skills to unravel key answers from large, varied and complex datasets in business intelligence field.
+
+<div align= "center"><img src="\Users\62588\Desktop\GO BLUE!!!\MBAn501\Project\EffectiveCommunication\Figures\YuzhouZhai.jpg" width="200" height="230" />
+
+Fig.2.1 Yuzhou Zhai
+</div>
