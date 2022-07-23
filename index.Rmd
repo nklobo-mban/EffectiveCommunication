@@ -1,0 +1,29 @@
+--- 
+title: "Effective Communication Guidance"
+author: "Team 4WARD"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Welcome to MBAn!
+
+This is a guidance written for prospective **MBAn students at University of Michigan, Stephem M. Ross School of Business**. Congratulations on your excellent academic performance and outstanding leadership that made you a proud Ross MBAn OYM student. 
+
+<div align= "center"><img src="\Users\62588\Desktop\GO BLUE!!!\MBAn501\Project\EffectiveCommunication\Figures\MBAn.jpg" width="800" height="600" />
+
+Fig.1 MBAn Class of 2023
+</div>
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
