@@ -1,7 +1,7 @@
 # EffectiveCommunication
 
 # Project Description
-This project is a guidance to prospective MBAn OYM students at University of Michigan, Stephen M. Ross School of Business.
+This project is a guidance about effective communication in team collaboration for prospective MBAn OYM students at University of Michigan, Stephen M. Ross School of Business.
 Welcome to browse the guidance through the following website: 
 
 https://nklobo-mban.github.io/EffectiveCommunication/
