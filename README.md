@@ -1,6 +1,5 @@
-# EffectiveCommunication
+# README
 
-# Project Description
 This project is a guidance about effective communication in team collaboration for prospective MBAn OYM students at University of Michigan, Stephen M. Ross School of Business.
 You are warmly Welcomed to browse the guidance through the following website: 
 
