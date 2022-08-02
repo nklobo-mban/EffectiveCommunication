@@ -42,7 +42,7 @@ Data scientists are analytical experts who utilize their skills in both technolo
 
 A data scientist’s work typically involves making sense of messy, unstructured data, from sources such as smart devices, social media feeds, and emails that don’t neatly fit into a database.
 
-## Common tools and Terms {#Common}
+## Common Tools and Terms {#Common}
 
 In this section, there will be several common tools as well as terms for you to read through. You can click the graph after the installation instruction to install the tools you may need.
 
@@ -116,7 +116,7 @@ Key terms you may encounter:
 
 [Free Download for students](https://www.microsoft.com/en-us/education/products/microsoft-365)
 
-## Business Analytics skills and terms
+## Business Analytics Skills and Terms
 
 ### Market Analysis
 
