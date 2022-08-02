@@ -4,7 +4,7 @@ In this section, we would talk about networking.Networking is the process of mak
 
 ## Timeline
 
-Systematic Outreach
+**Step one: Systematic Outreach**
 
 Have 2 contacts for each of your top 5 companies from your list
 Reach out to one person from each company at the same time
@@ -13,7 +13,33 @@ Reach out to one person from each company at the same time
 
 Follow the “3B7” model of timing/tracking your outreach
 
-add image of 3B7
+![](3B7.PNG)
+
+**Step 2: Recap**
+
+Focus on those in functionally-relevant positions
+
+Target Boosters (but expect Obligates & Curmudgeons)
+
+Treat the process probabilistically
+
+In two hours, we’ll have scheduled an informational meeting
+
+**Part 3: Convince Advocates**
+
+We still aren’t going to sell ourselves
+
+Focus on being likable
+
+– Starts with listening
+
+Use the TIARA framework(more information would be added in coffee chat section)
+
+– Small talk
+
+– Q&A
+
+– Next Steps
 
 ## Alumni
 
@@ -37,3 +63,17 @@ the east coast tech space”)
 ## Using LinkedIn for networking 
 
 ## Coffee chat – what to say
+
+Informal coffee meetings can sometimes prove the most consequential of your career. But it’s easy to be deceived by the casualness of an invitation to grab a coffee and imagine these opportunities are less important than they can be. They aren’t actually job interviews or pitch meetings, but they’re more intentional than chance conversations at networking events.
+
+**1. Know Your Desired Outcome, But Start With Small Talk**
+
+You can begin with three questions:
+
+– How’s your day going so far (temp check – are they chatty)
+
+– How did you join your organization? (you don’t get to talk more than 2 mins)
+
+– What are you working on right now (optional)
+
+**2. Connect by Asking Rapport Building Questions**
