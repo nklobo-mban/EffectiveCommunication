@@ -43,3 +43,9 @@ py
 Common
 R
 SQL
+interviews-preparation
+types-of-interviews
+phone-interviews
+case-interviews
+behavioral-interviews
+technical-interviews

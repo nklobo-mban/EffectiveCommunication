@@ -1,1 +1,21 @@
 # Interviews
+## Interviews & Preparation
+Job interview is a crucial step of the job application process. Usually, interview processes are between application review and final offer call which will be the step that determines whether the candidate can get an offer. If the candidate gets an interview invitation, the candidate is halfway successful in the job application.
+
+Preparing for an interview means that candidates will need to take time to thoughtfully consider his/her goals and qualifications relative to the position and employer. In order to accomplish this, the candidate must dig into the company and carefully review the job description to understand the fundamental reason that the candidate will be the best fit. 
+
+## Types of Interviews
+### Phone Interviews
+Many companies start the interview process with a phone call to discuss the job opportunity with potential candidates to determine whether the candidate is a good fit or whether the candidate is qualified for the position. The reasons companies use phone interviews are that phone interviews are the way for recruiters to screen candidates to narrow the pool of applicants who will be invited for in-person or virtual interviews.
+
+### Case Interviews
+Case interview is the cornerstone of consulting recruitment  to see whether the candidate is able to solve a business problem which could test both problem-solving skills and soft skills. Case interviews usually last 30-45 minutes, depending on the film and interview stages. Back-to-back interviews often happen in case interviews which means the candidates will need to participate in 2-3 case interviews with different interviewers on the same day. For example, a candidate could have three interviews with different leaders in the firm on the same day to perform one case interview with each interviewer.
+
+Generally, there are two styles of conduction case: Candidate-led and Interviewer-led. For candidate-led cases, the interviewer rarely intervenes which means that the candidate will lead the approach from asking clarifying questions and data, structuring the problem, drawing frameworks, and finally synthesizing to make a recommendation for the client. For interviewer-led cases, the interviewer controls the process in significant ways. The interviewers will ask candidates to work on specific parts of the case which are different from the candidate-led cases. Candidates will not be asked to solve one big problem by himself/herself, but instead, candidates will work on small questions or mini-case one at a time and finally combine together to provide a strategic recommendation for the client. 
+
+### Behavioral Interviews
+Behavioral-based interview is interviewing based on discovering how candidates acted in specific business-related situations. How candidates behaved in the past will predict how candidates will behave in the future workplace which is an important part for companies to consider. In a behavioral interview, an interviewer has decided what skills are needed in the person the company hires and will ask questions to find out if the candidate has those skills. Instead of asking how candidates would behave, interviewers will ask how candidates did behave.
+
+### Technical Interviews
+Technical interviews are common for those recruiting technology or software roles. They serve as a way for employers to test one’s problem-solving skills, communication abilities, and technical expertise. These interviews typically last between 45-60 minutes and can occur at any time during the hiring process. Questions can consist of traditional behavioral questions, brainteasers, technical proficiency tests, and problem-solving questions. When assessing your answers recruiters are given a glimpse into how you may solve real problems in the workplace; therefore, it is key to explain your thought process and the mental steps you take towards your solution. 
+
