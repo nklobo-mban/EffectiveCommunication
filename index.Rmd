@@ -1,5 +1,5 @@
 --- 
-title: "Effective Communication in Team Collaboration"
+title: "Effective Communication in Analytics Recruiting"
 author: "Team 4WARD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
