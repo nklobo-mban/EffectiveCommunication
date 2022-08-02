@@ -43,7 +43,21 @@ py
 Common
 R
 SQL
+<<<<<<< HEAD
 data-scientist
 microsoft-excel
 business-analytics-skills-and-terms
 market-analysis
+=======
+types-of-job-that-use-data-analytics
+business-intelligence-analyst
+data-analyst
+data-scientist
+data-engineer
+quantitative-analyst
+data-analytics-consultant
+operations-consultant
+marketing-analyst
+project-manager
+it-systems-analyst
+>>>>>>> 401d6e7836378123ee6bb0aff5fd645419e2ec47
