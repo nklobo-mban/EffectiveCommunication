@@ -43,3 +43,14 @@ py
 Common
 R
 SQL
+types-of-job-that-use-data-analytics
+business-intelligence-analyst
+data-analyst
+data-scientist
+data-engineer
+quantitative-analyst
+data-analytics-consultant
+operations-consultant
+marketing-analyst
+project-manager
+it-systems-analyst
