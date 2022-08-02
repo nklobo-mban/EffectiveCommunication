@@ -34,7 +34,17 @@ A bachelor’s degree in a related field is typically required for entry-level d
 
 Required skills: 
 
-## Common Skills and Terms {#Common}
+## Data Scientist
+
+Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations.
+
+Data scientists are analytical experts who utilize their skills in both technology and social science to find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing assumptions – to uncover solutions to business challenges.
+
+A data scientist’s work typically involves making sense of messy, unstructured data, from sources such as smart devices, social media feeds, and emails that don’t neatly fit into a database.
+
+## Common tools and Terms {#Common}
+
+In this section, there will be several common tools as well as terms for you to read through. You can click the graph after the installation instruction to install the tools you may need.
 
 ### Anaconda {#Anaconda}
 
@@ -58,6 +68,8 @@ Official Installation:
 
 [![py](Python.jpg)](https://www.python.org/downloads/)
 
+[Free Online Python Tutorial](https://www.udacity.com/course/introduction-to-python--ud1110)
+
 ### R {#R}
 
 R is a language and environment for statistical computing and graphics. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques, and is highly extensible. The S language is often the vehicle of choice for research in statistical methodology, and R provides an Open Source route to participation in that activity.
@@ -74,7 +86,9 @@ Official Installation:
 
 [![R](R.jpg)](https://www.python.org/downloads/)
 
-### SQL(MySQL) {#SQL}
+[Online R Programming Tutorial](https://www.coursera.org/learn/data-analysis-r)
+
+### SQL (MySQL) {#SQL}
 
 SQL, Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables.
 
@@ -84,6 +98,42 @@ MySQL is an open-source relational database management system (RDBMS). Its name 
 Installation:
 
 [![SQL](SQL.jpg)](https://www.mysql.com/)
+
+[Free Online SQL Tutorial](https://www.udacity.com/course/sql-for-data-analysis--ud198)
+
+### Microsoft Excel
+Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications (VBA). Excel forms part of the Microsoft Office suite of software.
+
+Key terms you may encounter: 
+
+  + [VLOOKUP](https://support.microsoft.com/en-us/office/vlookup-function-0bbc8083-26fe-4963-8ab8-93a18ad188a1)
+  
+  + [Power Query](https://docs.microsoft.com/en-us/power-query/power-query-what-is-power-query)
+  
+  + [VBA](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
+  
+  + [Pivot Table](https://support.microsoft.com/en-us/office/create-a-pivottable-to-analyze-worksheet-data-a9a84538-bfe9-40a9-a8e9-f99134456576)
+
+[Free Download for students](https://www.microsoft.com/en-us/education/products/microsoft-365)
+
+## Business Analytics skills and terms
+
+### Market Analysis
+
+A market analysis can help you identify how to better position your business to be competitive and serve your customers.
+
+And you can find more instructions [here](https://www.coursera.org/articles/market-analysis)
+
+Common analysis pattern you may use:
+
+  + [PEST](https://www.coursera.org/articles/market-analysis)
+  + [PESTLE](https://pestleanalysis.com/what-is-pestle-analysis/)
+  + [STEEPLE](https://planningtank.com/market-research/steeple-analysis#:~:text=STEEPLE%20is%20an%20advanced%20analysis,%2C%20Political%2C%20Legal%20and%20Ethical.)
+
+
+
+
+
 
 
 
