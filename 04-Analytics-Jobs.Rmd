@@ -13,87 +13,87 @@ There are many different types of jobs that individuals with strong analytical s
   + Average Salary: $83,700 USD 
 
 ### Data Analyst 
-A data analyst analyzes company and industry data to extract actionable insights that will provide value to the company and determine what improvements the company can make to achieve their desired outcome. 
-Requirements:
-Good understanding of programming languages 
-Experience in SQL
-Statistical knowledge and data visualization tools  
-Strong written and verbal communication skills
-Have a good understanding of business practices
-Average salary: $69,319 USD
+  + A data analyst analyzes company and industry data to extract actionable insights that will provide value to the company and determine what improvements the company can make to achieve their desired outcome. 
+  + Requirements:
+    + Good understanding of programming languages 
+    + Experience in SQL
+    + Statistical knowledge and data visualization tools  
+    + Strong written and verbal communication skills
+    + Have a good understanding of business practices
+  + Average salary: $69,319 USD
 
 ### Data Scientist 
-A data scientist acquies, utilizes, and analyzes data to help a company make decisions and improve business operations. 
-Requirements:
-Analytical problem solving skills 
-Experience with AI, statistical modeling,  and machine learning
-Strong understanding of different program languages such as R and Python 
-Have a good understanding of business practices
-Be able to communicate actionable insights using data
-Average Salary: $87,812 USD 
+  + A data scientist acquies, utilizes, and analyzes data to help a company make decisions and improve business operations.
+  + Requirements:
+    + Analytical problem solving skills 
+    + Experience with AI, statistical modeling,  and machine learning
+    + Strong understanding of different program languages such as R and Python 
+    + Have a good understanding of business practices
+    + Be able to communicate actionable insights using data
+  + Average Salary: $87,812 USD 
 
 ### Data Engineer 
-A data engineer optimizes the structure and systems surrounding the different data analytics processes the company utilizes in order to prepare data for analytical and operational uses.  
-Requirements: 
-Experience with SQL and different programming languages 
-Be familiar with differently ETL systems, big data tools, and cloud computing 
-Be able use automation and scripting tools to collect information and data  
-Average Salary: $115,176 USD 
+  + A data engineer optimizes the structure and systems surrounding the different data analytics processes the company     utilizes in order to prepare data for analytical and operational uses.  
+  + Requirements: 
+    + Experience with SQL and different programming languages 
+    + Be familiar with differently ETL systems, big data tools, and cloud computing 
+    + Be able use automation and scripting tools to collect information and data  
+  + Average Salary: $115,176 USD 
 
 ### Quantitative Analyst 
-A quantitative analyst designs, develops, and implements different mathematical or statistical models and algorithms that are used to solve complex financial problems.  
-Requirements:
-Have a good understanding of business practices and finance 
-Strong statistics and mathematical skills 
-Skills in computer programming
-Expertise in quantitative finance 
-Average Salary: $106,750 USD 
+  + A quantitative analyst designs, develops, and implements different mathematical or statistical models and algorithms that are used to solve complex financial problems.  
+  + Requirements:
+    + Have a good understanding of business practices and finance 
+    + Strong statistics and mathematical skills 
+    + Skills in computer programming
+    + Expertise in quantitative finance 
+  + Average Salary: $106,750 USD 
 
 ### Data Analytics Consultant 
-A data analytics consultant works with different companies to provide them with different actionable insights found from big data. 
-Requirements: 
-Have a good understanding of data anaytiics and data viduaizations 
-Good critical thinking skills and client and stakeholder management skills  
-Be ale to communicat effectively 
-Have a good understanding of business practiices 
-Average Salary: $115,411 
+  + A data analytics consultant works with different companies to provide them with different actionable insights found from big data. 
+  + Requirements: 
+    + Have a good understanding of data anaytiics and data viduaizations 
+    + Good critical thinking skills and client and stakeholder management skills  
+    + Be ale to communicat effectively 
+    + Have a good understanding of business practiices 
+  + Average Salary: $115,411 
 
 ### Operations Consultant
-An operations consultant ultizes data models to improve and streamline a company’s operations. 
-Requirements: 
-Extensive understanding of operational enhancement strategies 
-Strong understanding of business management software 
-Strong analytical skills 
-Finance and accounting skills 
-Strong probglem-solving and strategic thinking skills 
-Expertise in gerneral business opeerations and structure 
-Average Salary: $138,503 USD 
+  + An operations consultant ultizes data models to improve and streamline a company’s operations. 
+  + Requirements: 
+    + Extensive understanding of operational enhancement strategies 
+    + Strong understanding of business management software 
+    + Strong analytical skills 
+    + Finance and accounting skills 
+    + Strong probglem-solving and strategic thinking skills 
+    + Expertise in gerneral business opeerations and structure 
+  + Average Salary: $138,503 USD 
 
 ### Marketing Analyst 
-A marketing analyst gathers, cleans, sorts, and analyzes data to develop actionable marketing indights for a company.  
-Requirements: 
-Experience working with CRM programs
-Strong knowledge of statistical packages, databases, and MS Office 
-Knowledge of data collection methods 
-Critical and analytical thinking skills  
-Strong communication skills 
-Have a solid understating of business and marketing 
-Average Salary: $85,289 USD 
+  + A marketing analyst gathers, cleans, sorts, and analyzes data to develop actionable marketing indights for a company.  
+  + Requirements: 
+    + Experience working with CRM programs
+    + Strong knowledge of statistical packages, databases, and MS Office 
+    + Knowledge of data collection methods 
+    + Critical and analytical thinking skills  
+    + Strong communication skills 
+    + Have a solid understating of business and marketing 
+  + Average Salary: $85,289 USD 
 
 ### Project Manager
-A project manager is responsible for planning and allocating resources, preparing budgets, analyzing the companies progress, and keeping stakeholders informed of the company’s operations while completing a project. 
-Requirements: 
-Strong understanding of project management software tools
-Excellent analytical skills 
-Strong organizational and leadership skills 
-Have a good understanding of business processes 
-Average Salary: $79,500 USD 
+  + A project manager is responsible for planning and allocating resources, preparing budgets, analyzing the companies progress, and keeping stakeholders informed of the company’s operations while completing a project. 
+  + Requirements: 
+    + Strong understanding of project management software tools
+    + Excellent analytical skills 
+    + Strong organizational and leadership skills 
+    + Have a good understanding of business processes 
+  +Average Salary: $79,500 USD 
 
 ### IT Systems Analyst 
-An IT systems analyst is responsible for implementing, maintaining and supporting different IT and information systems that a company needs to grow. 
-Requirements: 
-Be able to utlize different programs to interpret data 
-Have strong interpersonal skills and attention to detail 
-Project management skills 
-Knowledge of data modeling and data visualization tools 
-Average Salary: $79,776 USD 
+  + An IT systems analyst is responsible for implementing, maintaining and supporting different IT and information systems that a company needs to grow. 
+  + Requirements: 
+    + Be able to utlize different programs to interpret data 
+    + Have strong interpersonal skills and attention to detail 
+    + Project management skills 
+    + Knowledge of data modeling and data visualization tools 
+  + Average Salary: $79,776 USD 
