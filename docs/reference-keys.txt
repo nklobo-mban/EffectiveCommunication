@@ -51,16 +51,13 @@ case-interviews
 behavioral-interviews
 technical-interviews
 =======
-<<<<<<< HEAD
 data-scientist
 microsoft-excel
 business-analytics-skills-and-terms
 market-analysis
-=======
 types-of-job-that-use-data-analytics
 business-intelligence-analyst
 data-analyst
-data-scientist
 data-engineer
 quantitative-analyst
 data-analytics-consultant
@@ -70,3 +67,9 @@ project-manager
 it-systems-analyst
 >>>>>>> 401d6e7836378123ee6bb0aff5fd645419e2ec47
 >>>>>>> 6fcbcf96896e23806e3c4a629c9f0f9b1474f0fd
+data-scientist-1
+proper-interview-follow-up-methods
+the-thank-you-note
+mock-interview-questions
+story-banks-and-example-responses
+interview-tips
