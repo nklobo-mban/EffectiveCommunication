@@ -43,3 +43,7 @@ py
 Common
 R
 SQL
+data-scientist
+microsoft-excel
+business-analytics-skills-and-terms
+market-analysis
