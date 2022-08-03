@@ -108,3 +108,8 @@ bayesian-statistics
 stochastic-process
 natural-language-processing-nlp
 deep-learning
+the-follow-up-note
+the-feedback-note
+case
+behavioral
+technical
