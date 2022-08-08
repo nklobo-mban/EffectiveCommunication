@@ -21,6 +21,7 @@ Technical interviews are common for those recruiting technology or software role
 
 ## Proper Interview Follow-Up Methods
 ### The Thank-You Note
+
 Each time you interact with a new interviewer, it is a good idea to send a thank-you email within 24-48 hours of the meeting. These emails should be short and sweet, focused on demonstrating excitement and appreciation.
 
 **Subject line: Thank you for your time**
@@ -41,9 +42,116 @@ Jerry Mendelson
 
 jerrym@email.com
 
-## Mock Interview Questions
+### The Follow-Up Note
 
-## Story Banks and Example Responses
+It is important to give your recruiter time to respond. It is recommended that you wait at least a week after the expected reply date to send a message, if you have not yet heard back from a recruiter. The message should be no more than three paragraphs and the content should be similar to your thank-you note; make sure to express excitement about the role and ask if any additional information is needed.
+
+**Subject line: Checking in RE: marketing coordinator role**
+
+Dear Yesenia,
+
+I hope you’re well! I’m checking in on the marketing coordinator role. It was great to meet with the team earlier and I’m looking forward to your update. Please let me know if there’s anything else I can provide to assist in the decision-making process.
+
+Thank you,
+
+Rachel Cole
+
+555-555-5555
+
+rcole@email.com
+
+### The Feedback Note
+
+If you feel as though an interview went well, but weren’t offered the job, you can send an additional email asking for feedback. The message should be brief, thanking the interviewer for their time and asking for constructive feedback on how to improve. Often recruiters may not take the time to give you feedback, but in certain situations it can open the doors for new opportunities.
+
+**Subject Line: Potential Interview Feedback - Joe Shmoe**
+
+Dear [manager],
+
+I was disappointed to learn that I did not get an offer following my interview on [date]. I enjoyed our conversation and am impressed with the work that [company] does. Because I am new to the job search, I was hoping you could give me some feedback on my interview. I would like to ensure that I present myself as effectively as possible in the future. Any suggestions you could give me would be appreciated.
+
+Best,
+
+Joe Shmoe
+
+555-555-5555
+
+jshmoe@email.com
+
+
+### Mock Interview Questions
+
+## Case
+
+Bain - [Coffee Shop Co.](https://www.bain.com/careers/interview-prep/case-library/coffee-case-study/)
+
+BCG - [Chateau Boomerang](https://mconsultingprep.com/case-interview-examples/)
+
+Deloitte - [Technology Implementation Strategy](https://caseinterviewprep.deloitte.com/cases/apa/ug/1)
+
+Deloitte - [Federal Health Agency](https://caseinterviewprep.deloitte.com/cases/strategy/adv/2)
+
+Accenture - [Case Interview Workbook](https://caseinterviewprep.deloitte.com/cases/strategy/adv/2)
+
+## Behavioral
+
+Tell me about yourself / Run me through your resume
+
+What is your greatest strength/weakness?
+
+Tell me about your proudest accomplishment
+
+Give me an example of a time you faced a conflict with a coworker. How did you handle that?
+
+Tell me about a time you failed. How did you deal with the situation?
+
+## Technical
+
+What coding language are you most comfortable with?
+
+What is a SAN, and how is it used?
+
+When is it appropriate to denormalize database design?
+
+How would you design a touch interface for a device?
+
+Can you give an example of when you acquired a technical skill, and converted it into a practical application?
+
+
+### Story Banks and Example Responses
+
+1. Procurement System Project
+
+S - Over this summer at RemeGen Biosciences, the head of operations as well as the head of biology wished to integrate a new procurement/inventory management system for the lab.
+
+T - I was tasked with researching, demonstrating, and presenting several pre-selected systems to the executive team with my recommendation for the optimal choice. After weeks of due diligence and research I had a recommendation I was happy with.
+
+A - After the initial presentation, I was told that the executive team wanted to explore other options and that I was to research other systems. I was discouraged but went back and re-evaluated all systems within the industry, primarily focusing on ease of accessibility for scientists, integration into our current system of quickbooks, and the overall cost for the first three years. 
+
+R - After presenting all my research to various executives, they were pleased and chose my recommendation. It was actually really cool because in the last week of my internship I was able to see the rollout of the system, and it was extremely rewarding. I was taught to not be discouraged after a single failure and the ability to persevere. 
+
+
+2. Brotherhood Chair through Covid
+
+S - I was positioned during the onset of the COVID-19 pandemic as the brotherhood chair of my professional business fraternity. 
+
+T - We had scheduled and budgeted events for the entire semester, but had to move events virtually and found an glaring lack of attendance at the beginning as we attempted to continue with our original plans
+
+A - My co-chair was a newly-joined member and had not experienced previous in-person brotherhood events, so I took it upon myself to schedule meetings with the co-chair as well as the VP of membership to discuss shortcomings and marketing failures. We created a new wave of events focused on member interaction, for example we hosted a virtual talent show that was a huge success. I got to watch one of my best friends freestyle and got to see a side of people I had never seen before.
+
+R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel. 
+
+
+3. Redefine Clothing Brand
+
+S - Seeing the rise in AAPI hate crimes and anti-asian sentiment across America, my two closest friends and I created a clothing brand, Redefine Worldwide, which works to redefine Asian Stereotypes.
+
+T - For the past 6 months i’ve been working to help create our first merchandise collection, which just February 1st on Chinese New Year
+
+A - To do this I set up our shopify website, created designs and mocks, worked to expand our social media marketing, and sourced a manufacturer that has worked with the likes of Kanye West and Young Thug. 
+
+R - The culmination of these things has allowed us to generate above $600 in pre-sale profit, and at the end of the month a percentage of our total sales will be donated to ACT TO CHANGE, a nonprofit working to combat AAPI hate crimes. 
+
 
 ## Interview Tips
 
@@ -60,5 +168,4 @@ jerrym@email.com
 11. Practice, practice, practice!
 12. Think positive!
 13. Be confident!
-
 
