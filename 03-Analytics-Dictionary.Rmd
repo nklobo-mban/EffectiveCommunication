@@ -44,9 +44,7 @@ Easy Installation:
   
   + Step 3: Type "conda install r"
 
-Official Installation:
-
-[![R](R.jpg)](https://www.python.org/downloads/)
+Official Installation: [![R](R.jpg)](https://www.python.org/downloads/)
 
 [Online R Programming Tutorial](https://www.coursera.org/learn/data-analysis-r)
 
