@@ -67,14 +67,11 @@ project-manager
 it-systems-analyst
 >>>>>>> 401d6e7836378123ee6bb0aff5fd645419e2ec47
 >>>>>>> 6fcbcf96896e23806e3c4a629c9f0f9b1474f0fd
-<<<<<<< HEAD
 analytical-positions
 jobs-that-use-data-analytics
 data-scientist-1
 companies-that-offer-jobs-in-analytics
 section-2
-=======
-data-scientist-1
 proper-interview-follow-up-methods
 the-thank-you-note
 mock-interview-questions
@@ -128,3 +125,9 @@ joe-yuzhou-zhai
 max-hongli-xuan
 jimmy-hao-zhou
 >>>>>>> 128148fac41baf292784a8e25bffd9fd08a6202a
+analytics-positions
+where-to-look-for-jobs-that-utilze-analytics
+linkedin
+indeed
+ross-recruit
+handshake

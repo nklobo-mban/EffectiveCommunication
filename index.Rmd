@@ -17,16 +17,20 @@ github-repo: rstudio/bookdown-demo
 ---
 
 # Welcome
-This is a guidance written for prospective **MBAn students at University of Michigan, Stephem M. Ross School of Business**. Congratulations on your excellent academic performance and outstanding leadership that made you a proud Ross MBAn OYM student. 
+This website is a user friendly guide that prospective, current, and former MBAn and Ross students can utilize when they are looking to apply for different analytics positions that are available in the job market. 
+
+The MBAn program is an accelerated fast-paced program that is designed to teach students hard technical and business skills to be able to succeed in a business analyst position. Because of the fast-paced environment, the curriculum cannot cover everything. This website is designed to educate MBAn students and alumni as well as Ross students about different analytical positions and how to communicate effectively during the networking and recruiting process. It is designed to be a resource where students can find information about how to prepare for different types of interviews to ensure that the students are effectively communicating themselves and their brand to secure the best job possible. 
+
+To help students prepare for the analytical job recruiting process this website has an analytical toolbox where students can learn more about different analytical terms and software. The website also provides students with a list of different analytic jobs and information for how students can create strong application materials to ensure that they are effectively communicating their skills and strengths to recruiters and companies. 
+
+To build this website, Team 4Ward has R.Markdown and collaborated by using  GitHub.  Additionally, the team has used resources from the Career Development Office at the Ross School of Business. The team has also compiled and analyzed information from a variety of different resources to create a user-friendly guide that students can use to develop their networking and communication skills to help them get a data or business analytics job. 
+
+
 
 <div align= "center"><img src="MBAn.jpg" width="800" height="600" />
 
 Fig.1 MBAn Class of 2023
 </div>
-
-The MBAn program is an accelerated fast pace program that is designed to teach students hard technical and business skills to be able to succeed in a business analyst position. Because of the fast-paced environment, the curriculum can not cover everything. This website is designed to educate MBAn students about effective communication and collaboration in industry. This website is designed to be a resource for incoming and current MBAn students and alumni to assist these individuals with having in-depth knowledge about effective communication and collaboration as well as the detailed methodologies of how to communicate and collaborate effectively amongst team members. 
-
-To provide students with these resources, team 4Ward has conducted interviews and surveys with individuals who are currently working in different industries. Additionally, the team has utilized the Kresge Library resources to find different research studies on effective communication and collaboration. The team has compiled and analyzed this information to create a user-friendly guide that will define and explain the importance of the two topics and then dive deeper into what they look like in the workplace and different types that are utilized. 
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
