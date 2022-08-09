@@ -51,16 +51,13 @@ case-interviews
 behavioral-interviews
 technical-interviews
 =======
-<<<<<<< HEAD
 data-scientist
 microsoft-excel
 business-analytics-skills-and-terms
 market-analysis
-=======
 types-of-job-that-use-data-analytics
 business-intelligence-analyst
 data-analyst
-data-scientist
 data-engineer
 quantitative-analyst
 data-analytics-consultant
@@ -70,3 +67,8 @@ project-manager
 it-systems-analyst
 >>>>>>> 401d6e7836378123ee6bb0aff5fd645419e2ec47
 >>>>>>> 6fcbcf96896e23806e3c4a629c9f0f9b1474f0fd
+analytical-positions
+jobs-that-use-data-analytics
+data-scientist-1
+companies-that-offer-jobs-in-analytics
+section-2
