@@ -6,12 +6,13 @@ Intro
 ### Development of our Project Idea 
 ### Utlizing R.Markdown and GitHub 
 ### Acquiring User Stories 
- A third of the way through the development of this project, we conducted interviews with our peers and other Ross students to get an understanding of what type of information the users of this website want and what resources and tools would be helpful to them. 
+ A third of the way through the development of this project, we conducted interviews with our peers and other Ross students to get an understanding of what type of information the users of this website want and what resources and tools would be helpful to them. To pick these users we thought about the types of individuals that would be looking for information about effective communication. We decided that our users were prospective and current MBAn and Ross students and MBAn and Ross alumni who are looking for jobs in analytics. 
  
 Throughout this process, we found that students do not need to learn how to communicate and collaborate effectively but they want to learn how to communicate effectively when they are networking, writing their resumes, and interviewing for different jobs. This includes learning about specific vocabulary related to data and analytics. Through this interview process we asked our users about what information and resources they felt were not available to them. Once we completed these interviews we met as a team and decided to change the scope of our project. 
 
 ### Changing the Scope of our Project 
-As a team, we utilized the information we gathered during the user story interviews we conducted
+
+As a team, we utilized the information we gathered during the user story interviews we conducted to change the scope of our project from effective communication and collaboration to effective communication in analytics recruiting. Once we changed the scope of our project we came together as a team to brainstorm how to organized our new project. We created an outline and presented it to some of the individuals we interviewed for our users stories and got some more feedback and made those changes to ensure that our product could be used a helpful resource for our users. 
 
 ## Team Development 
 ### Team Charter 
