@@ -1,48 +1,10 @@
-# Analytics Dictionary
+# Analytics Wordbox
 
-In this section, we will provide a dictionary to explain the terms frequently being used in analytical fields in detail. The word boxes will include analytical terms for future business analysts, data analysts, and data scientists. Hopefully you can communicate with career professions, recruiters, and interviewers effectively after reading the information provided in this dictionary!
+Before diving into deeper discussion of effective communication, here is a prerequisite reading for you to read through. In order to communicate effectively with career professions, recruiters, and interviewers, you first need to figure out all these professional terms.
 
-Before we go deeper into different kinds of analytics, you can first read through the common terms and skills that all jobs in analytical area requires: \@ref(Common).
+In this section, we will provide a dictionary to explain professional terms frequently being used in analytical fields in detail and provide you with relevant website link for more information, including **installation guiding** and **online tutorial resources**. Hopefully you can communicate with career professions, recruiters, and interviewers effectively after reading the information provided in this dictionary!
 
-## Business Analytics
-Business analysts are responsible for using data to inform strategic business decisions.
-
-A business analyst might also hold job titles such as operations research analyst, management analyst, or business data analyst.
-
-The duties of a business analyst typically include:
-
-  + Evaluating business processes for efficiency, cost, and other valuable metrics 
-  + Communicating insights with business teams and key stakeholders 
-  + Preparing strategic recommendations for process adjustments, procedures, and performance improvements
-
-Entry-level business analyst positions usually require a bachelor’s degree in business administration or a related area of study. As the need for professionals with expert data skills increases, though, advanced degrees like a master’s in analytics or a master’s in business analytics are becoming more popular among job applicants. 
-
-Recommending terms to read through: 
-
-## Data Analytics
-
-A data analyst’s fundamental job is to tell compelling stories with data that empower organizational leaders to make better, more informed decisions.
-
-The responsibilities of a data analyst often include: 
-
-  + Designing and maintaining data systems and databases, including troubleshooting potential issues 
-  + Mining and cleaning data in preparation for analysis 
-  + Preparing reports which effectively communicate their findings to organizational leadership and key stakeholders 
-  + To be effective in their roles, data analysts must possess the technical skills necessary for data mining, hygiene, and analysis, along with strong interpersonal skills to communicate their findings to decision-makers. 
-
-A bachelor’s degree in a related field is typically required for entry-level data analysts. For senior positions, hiring managers often require or strongly prefer a graduate degree such as a master’s degree in analytics. 
-
-Required skills: 
-
-## Data Scientist
-
-Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations.
-
-Data scientists are analytical experts who utilize their skills in both technology and social science to find trends and manage data. They use industry knowledge, contextual understanding, skepticism of existing assumptions – to uncover solutions to business challenges.
-
-A data scientist’s work typically involves making sense of messy, unstructured data, from sources such as smart devices, social media feeds, and emails that don’t neatly fit into a database.
-
-## Common tools and Terms {#Common}
+## Common Tools and Terms {#Common}
 
 In this section, there will be several common tools as well as terms for you to read through. You can click the graph after the installation instruction to install the tools you may need.
 
@@ -82,9 +44,7 @@ Easy Installation:
   
   + Step 3: Type "conda install r"
 
-Official Installation:
-
-[![R](R.jpg)](https://www.python.org/downloads/)
+Official Installation: [![R](R.jpg)](https://www.python.org/downloads/)
 
 [Online R Programming Tutorial](https://www.coursera.org/learn/data-analysis-r)
 
@@ -101,7 +61,7 @@ Installation:
 
 [Free Online SQL Tutorial](https://www.udacity.com/course/sql-for-data-analysis--ud198)
 
-### Microsoft Excel
+### Microsoft Excel{#MSX}
 Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications (VBA). Excel forms part of the Microsoft Office suite of software.
 
 Key terms you may encounter: 
@@ -116,7 +76,20 @@ Key terms you may encounter:
 
 [Free Download for students](https://www.microsoft.com/en-us/education/products/microsoft-365)
 
-## Business Analytics skills and terms
+### Data Visualization
+
+Data visualization is the practice of translating information into a visual context, such as a map or graph, to make data easier for the human brain to understand and pull insights from. The main goal of data visualization is to make it easier to identify patterns, trends and outliers in large data sets.
+
+Useful data visualization tools:
+
+  + Microsoft Excel \@ref(MSX)
+  + Tableau \@ref(TB)
+  + Power BI \@ref(BI)
+  + Python (Matplotlib, Seaborn) \@ref(py)
+
+
+## Business Analytics
+Business analytics (BA) is a set of disciplines and technologies for solving business problems using data analysis, statistical models and other quantitative methods. It involves an iterative, methodical exploration of an organization's data, with an emphasis on statistical analysis, to drive decision-making.
 
 ### Market Analysis
 
@@ -130,10 +103,138 @@ Common analysis pattern you may use:
   + [PESTLE](https://pestleanalysis.com/what-is-pestle-analysis/)
   + [STEEPLE](https://planningtank.com/market-research/steeple-analysis#:~:text=STEEPLE%20is%20an%20advanced%20analysis,%2C%20Political%2C%20Legal%20and%20Ethical.)
 
+### Business Model
 
+The term business model refers to a company's plan for making a profit. It identifies the products or services the business plans to sell, its identified target market, and any anticipated expenses. Business models are important for both new and established businesses.
 
+Useful [website](https://businessmodelanalyst.com/) for you to see some examples of business model. There are 9 components in a business model:
 
+  + Key Partners
+  + Key Activities
+  + Key Resources
+  + Value Propositions
+  + Customer Relationship
+  + Channels
+  + Customer Segments
+  + Cost Structure
+  + Revenue Streams
+  
+### CBAP
 
+CBAP stands for Certified Business Analysis Professional. This certification is the title given to professionals who sit for and pass the CBAP exam.
 
+You can obtain more information [here](https://www.globalknowledge.com/us-en/training/certification-prep/topics/business-analysis/section/cbap-certification/cbap/).
 
+### Consultant
+A consultant is a professional (also known as expert, specialist, see variations of meaning below) who provides advice and other purposeful activities in an area of specialization.
 
+Consulting services generally fall under the domain of professional services.
+
+The role of consultant outside the medical sphere (where the term is used specifically for a grade of doctor) can fall under one of two general categories:
+
+  + Internal consultant: Someone who is either employed by or contracted by a client organization, and operates within a client-organization (maybe as part of an internal consultancy unit); or
+  + External consultant: Someone who is employed externally to the client (either by a consulting firm, some other agency or as an independent freelancer), whose expertise is provided as part of a contract for a fee or rate.
+
+### Power BI{#BI}
+
+Power BI is an interactive data visualization software product developed by Microsoft with a primary focus on business intelligence.[1] It is part of the Microsoft Power Platform. Power BI is a collection of software services, apps, and connectors that work together to turn unrelated sources of data into coherent, visually immersive, and interactive insights. Data may be input by reading directly from a database, webpage, or structured files such as spreadsheets, CSV, XML, and JSON.
+
+Power BI Online Platform and Installation:
+
+[![BI](BI.jpg)](https://app.powerbi.com/home?cmpid=pbi-free-hero-sta-signup&redirectedFromSignup=1&noSignUpCheck=1&ScenarioId=signup)
+
+### Exploratory Data Analysis (EDA)
+
+In statistics, exploratory data analysis is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods. A statistical model can be used or not, but primarily EDA is for seeing what the data can tell us beyond the formal modeling and thereby contrasts traditional hypothesis testing.
+
+## Data Analytics
+
+Data analytics (DA) is the process of examining data sets in order to find trends and draw conclusions about the information they contain. Increasingly, data analytics is done with the aid of specialized systems and software.
+
+### Tableau{#TB}
+
+Tableau Software is an American interactive data visualization software company focused on business intelligence. Tableau products query relational databases, online analytical processing cubes, cloud databases, and spreadsheets to generate graph-type data visualizations. The software can also extract, store, and retrieve data from an in-memory data engine.
+
+Free Installation for student:
+
+[![TB](Tableau.jpg)](https://www.tableau.com/academic/digital-data-skills?utm_campaign_id=2017059&utm_campaign=Prospecting-ACAD-ALL-ALL-ALL-ALL&utm_medium=Paid+Search&utm_source=Google+Search&utm_language=EN&utm_country=USCA&kw=tableau%20student&adgroup=CTX-Brand-Student-E&adused=RSA&matchtype=e&placement=&d=7013y000000vYhH&cq_cmp=1695532540&cq_net=g&cq_plac=&gclid=CjwKCAjwlqOXBhBqEiwA-hhitJV7OQx0jmI9p_ISIA627U7R6XaGrCHYB2rPRscV2T90GZj4-lESTBoC4GgQAvD_BwE&gclsrc=aw.ds)
+
+### SAS
+SAS (previously "Statistical Analysis System") is a statistical software suite developed by SAS Institute for data management, advanced analytics, multivariate analysis, business intelligence, criminal investigation, and predictive analytics.
+
+Free Installation for Students:
+
+[![SAS](SAS.jpg)](https://www.sas.com/en_us/learn/academic-programs/students.html)
+
+### SPSS
+SPSS is a widely used program for statistical analysis in social science. It is also used by market researchers, health researchers, survey companies, government, education researchers, marketing organizations, data miners, and others.
+
+[SPSS Installation for Students](https://www.ibm.com/products/spss-statistics-gradpack)
+
+### A/B Testing
+A/B testing (also known as bucket testing or split-run testing) is a user experience research methodology. A/B tests consist of a randomized experiment with two variants, A and B. It includes application of statistical hypothesis testing or "two-sample hypothesis testing" as used in the field of statistics. A/B testing is a way to compare two versions of a single variable, typically by testing a subject's response to variant A against variant B, and determining which of the two variants is more effective.
+
+[Free Online Tutorials for A/B Testing](https://www.udacity.com/course/ab-testing--ud257)
+
+### Machine Learning
+
+Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.
+
+[Free Online Tutorials for Machine Learning](https://learn.udacity.com/courses/ud262)
+
+### Scikit Learn
+Scikit-learn (formerly scikits.learn and also known as sklearn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+
+Some frequently-used machine learning classifier/regression models:
+
+  + Linear Regression
+  + Logistic Regression
+  + RidgeCV
+  + DecisionTree
+  + RandomForest
+  + SVM
+  + KNN
+
+### Feature Engineering
+
+Feature engineering is the process of selecting, manipulating, and transforming raw data into features that can be used in supervised learning. In order to make machine learning work well on new tasks, it might be necessary to design and train better features. It is usually performed before using machine learning models.
+
+### Cross-Validation
+
+Cross-validation is a resampling method that uses different portions of the data to test and train a model on different iterations. It is mainly used in settings where the goal is prediction (e.g., machine learning models), and one wants to estimate how accurately a predictive model will perform in practice.
+
+## Data Science
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains. Data science is related to data mining, machine learning and big data.
+
+Data science is a "concept to unify statistics, data analysis, informatics, and their related methods" in order to "understand and analyse actual phenomena" with data. It uses techniques and theories drawn from many fields within the context of mathematics, statistics, computer science, information science, and domain knowledge.
+
+### ETL
+
+ETL, which stands for extract, transform, and load, is the process data engineers use to extract data from different sources, transform the data into a usable and trusted resource, and load that data into the systems end-users can access and use downstream to solve business problems.
+
+### Data Warehouse
+
+A data warehouse is a central repository of information that can be analyzed to make more informed decisions. Data flows into a data warehouse from transactional systems, relational databases, and other sources, typically on a regular cadence.
+
+### Bayesian Statistics
+
+Bayesian statistics is a theory in the field of statistics based on the Bayesian interpretation of probability where probability expresses a degree of belief in an event. The degree of belief may be based on prior knowledge about the event, such as the results of previous experiments, or on personal beliefs about the event. This differs from a number of other interpretations of probability, such as the frequentist interpretation that views probability as the limit of the relative frequency of an event after many trials.
+
+[Online Text Book for Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf)
+
+### Stochastic Process
+
+In probability theory and related fields, a stochastic or random process is a mathematical object usually defined as a family of random variables. Stochastic processes are widely used as mathematical models of systems and phenomena that appear to vary in a random manner.
+
+[Online Text Book for Stochastic Process](http://ramanujan.math.trinity.edu/polofsson/teach/Book.pdf)
+
+### Natural language processing (NLP)
+
+Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken and written -- referred to as natural language. It is a component of artificial intelligence (AI). NLP has existed for more than 50 years and has roots in the field of linguistics.
+
+### Deep Learning
+
+Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.
+
+Deep-learning architectures such as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks, convolutional neural networks and Transformers have been applied to fields including computer vision, speech recognition, natural language processing, machine translation, bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs, where they have produced results comparable to and in some cases surpassing human expert performance.

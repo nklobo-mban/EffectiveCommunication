@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
+
+*,
+:before,
+:after {
+    box-sizing: border-box;
+}
+
+body {
+	margin: 20px;
+	padding: 0;
+	background: #1d1f20 url(img.png)  no-repeat left bottom; 
+    background-size: 240px, 75px;
+	font: 16px/1.25 'Crimson Text', sans-serif;
+	color: #e5e5e5;
+}
+
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80em;
+}
+
+#container {
+    float: left;
+    padding: 1em;
+    width: 100%;
+}
