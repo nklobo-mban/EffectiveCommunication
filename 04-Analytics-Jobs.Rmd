@@ -25,7 +25,7 @@ There are many different jobs that individuals with strong analytical skills can
   + Average salary: $69,319 USD
 
 ### Data Scientist 
-  + A data scientist acquies, utilizes, and analyzes data to help a company make decisions and improve business operations.
+  + A data scientist acquires, utilizes, and analyzes data to help a company make decisions and improve business operations.
   + Requirements:
     + Analytical problem solving skills 
     + Experience with AI, statistical modeling,  and machine learning
