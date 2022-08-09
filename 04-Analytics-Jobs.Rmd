@@ -1,4 +1,4 @@
-# Analytical Positions 
+# Analytics Positions 
 
 ## Jobs that Use Data Analytics 
 
@@ -98,7 +98,16 @@ There are many different jobs that individuals with strong analytical skills can
     + Knowledge of data modeling and data visualization tools 
   + Average Salary: $79,776 USD 
   
-## Companies that offer jobs in analytics 
+## Where to look for jobs that utilze analytics 
+
+### LinkedIn 
+
+### Indeed 
+
+### Ross Recruit 
+
+### Handshake 
+
 
 ### 
 
