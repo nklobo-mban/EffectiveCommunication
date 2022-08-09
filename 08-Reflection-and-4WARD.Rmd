@@ -1,5 +1,25 @@
 # GO 4WARD!
 
+Intro 
+
+## The Process 
+### Development of our Project Idea 
+### Utlizing R.Markdown and GitHub 
+### Acquiring User Stories 
+### Changing the Scope of our Project 
+
+
+## Team Development 
+### Team Charter 
+### Team Norms 
+### Divison of Work 
+### Implementing Agile Practices 
+
+
+## Team Reflection 
+
+
+
 
 
 

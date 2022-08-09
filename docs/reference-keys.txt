@@ -132,3 +132,14 @@ indeed
 ross-recruit
 handshake
 jobs
+the-process
+development-of-our-project-idea
+utlizing-r.markdown-and-github
+acquiring-user-stories
+changing-the-scope-of-our-project
+team-development
+team-charter
+team-norms
+divison-of-work
+implementing-agile-practices
+team-reflection
