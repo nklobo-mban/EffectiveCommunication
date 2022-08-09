@@ -1,4 +1,4 @@
-# Analytics Dictionary
+# Analytics Wordbox
 
 Before diving into deeper discussion of effective communication, here is a prerequisite reading for you to read through. In order to communicate effectively with career professions, recruiters, and interviewers, you first need to figure out all these professional terms.
 
@@ -44,9 +44,7 @@ Easy Installation:
   
   + Step 3: Type "conda install r"
 
-Official Installation:
-
-[![R](R.jpg)](https://www.python.org/downloads/)
+Official Installation: [![R](R.jpg)](https://www.python.org/downloads/)
 
 [Online R Programming Tutorial](https://www.coursera.org/learn/data-analysis-r)
 

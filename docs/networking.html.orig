@@ -4,18 +4,18 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 8 Interviews | Effective Communication in Analytics Recruiting</title>
-  <meta name="description" content="Chapter 8 Interviews | Effective Communication in Analytics Recruiting" />
+  <title>Chapter 7 Networking | Effective Communication in Analytics Recruiting</title>
+  <meta name="description" content="Chapter 7 Networking | Effective Communication in Analytics Recruiting" />
   <meta name="generator" content="bookdown 0.27 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 8 Interviews | Effective Communication in Analytics Recruiting" />
+  <meta property="og:title" content="Chapter 7 Networking | Effective Communication in Analytics Recruiting" />
   <meta property="og:type" content="book" />
   
   
   <meta name="github-repo" content="rstudio/bookdown-demo" />
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 8 Interviews | Effective Communication in Analytics Recruiting" />
+  <meta name="twitter:title" content="Chapter 7 Networking | Effective Communication in Analytics Recruiting" />
   
   
   
@@ -23,15 +23,15 @@
 <meta name="author" content="Team 4WARD" />
 
 
-<meta name="date" content="2022-08-03" />
+<meta name="date" content="2022-08-05" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="networking.html"/>
-<link rel="next" href="references.html"/>
+<link rel="prev" href="application-materials.html"/>
+<link rel="next" href="interviews.html"/>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -197,139 +197,75 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="interviews" class="section level1 hasAnchor" number="8">
-<h1><span class="header-section-number">Chapter 8</span> Interviews<a href="interviews.html#interviews" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div id="interviews-preparation" class="section level2 hasAnchor" number="8.1">
-<h2><span class="header-section-number">8.1</span> Interviews &amp; Preparation<a href="interviews.html#interviews-preparation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Job interview is a crucial step of the job application process. Usually, interview processes are between application review and final offer call which will be the step that determines whether the candidate can get an offer. If the candidate gets an interview invitation, the candidate is halfway successful in the job application.</p>
-<p>Preparing for an interview means that candidates will need to take time to thoughtfully consider his/her goals and qualifications relative to the position and employer. In order to accomplish this, the candidate must dig into the company and carefully review the job description to understand the fundamental reason that the candidate will be the best fit.</p>
+<div id="networking" class="section level1 hasAnchor" number="7">
+<h1><span class="header-section-number">Chapter 7</span> Networking<a href="networking.html#networking" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<p>In this section, we would talk about networking.Networking is the process of making connections and building relationships. It can help you get more job/ internship opportunities. There are some useful tips for you to start networking.</p>
+<div id="timeline" class="section level2 hasAnchor" number="7.1">
+<h2><span class="header-section-number">7.1</span> Timeline<a href="networking.html#timeline" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p><strong>Step one: Systematic Outreach</strong></p>
+<p>Have 2 contacts for each of your top 5 companies from your list
+Reach out to one person from each company at the same time</p>
+<p>– This will seem overwhelming at first but will space out over time</p>
+<p>Follow the “3B7” model of timing/tracking your outreach</p>
+<p><img src="3B7.png" /></p>
+<p><strong>Step 2: Recap</strong></p>
+<p>Focus on those in functionally-relevant positions</p>
+<p>Target Boosters (but expect Obligates &amp; Curmudgeons)</p>
+<p>Treat the process probabilistically</p>
+<p>In two hours, we’ll have scheduled an informational meeting</p>
+<p><strong>Part 3: Convince Advocates</strong></p>
+<p>We still aren’t going to sell ourselves</p>
+<p>Focus on being likable</p>
+<p>– Starts with listening</p>
+<p>Use the TIARA framework(more information would be added in coffee chat section)</p>
+<p>– Small talk</p>
+<p>– Q&amp;A</p>
+<p>– Next Steps</p>
 </div>
-<div id="types-of-interviews" class="section level2 hasAnchor" number="8.2">
-<h2><span class="header-section-number">8.2</span> Types of Interviews<a href="interviews.html#types-of-interviews" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<div id="phone-interviews" class="section level3 hasAnchor" number="8.2.1">
-<h3><span class="header-section-number">8.2.1</span> Phone Interviews<a href="interviews.html#phone-interviews" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Many companies start the interview process with a phone call to discuss the job opportunity with potential candidates to determine whether the candidate is a good fit or whether the candidate is qualified for the position. The reasons companies use phone interviews are that phone interviews are the way for recruiters to screen candidates to narrow the pool of applicants who will be invited for in-person or virtual interviews.</p>
+<div id="alumni" class="section level2 hasAnchor" number="7.2">
+<h2><span class="header-section-number">7.2</span> Alumni<a href="networking.html#alumni" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="case-interviews" class="section level3 hasAnchor" number="8.2.2">
-<h3><span class="header-section-number">8.2.2</span> Case Interviews<a href="interviews.html#case-interviews" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Case interview is the cornerstone of consulting recruitment to see whether the candidate is able to solve a business problem which could test both problem-solving skills and soft skills. Case interviews usually last 30-45 minutes, depending on the film and interview stages. Back-to-back interviews often happen in case interviews which means the candidates will need to participate in 2-3 case interviews with different interviewers on the same day. For example, a candidate could have three interviews with different leaders in the firm on the same day to perform one case interview with each interviewer.</p>
-<p>Generally, there are two styles of conduction case: Candidate-led and Interviewer-led. For candidate-led cases, the interviewer rarely intervenes which means that the candidate will lead the approach from asking clarifying questions and data, structuring the problem, drawing frameworks, and finally synthesizing to make a recommendation for the client. For interviewer-led cases, the interviewer controls the process in significant ways. The interviewers will ask candidates to work on specific parts of the case which are different from the candidate-led cases. Candidates will not be asked to solve one big problem by himself/herself, but instead, candidates will work on small questions or mini-case one at a time and finally combine together to provide a strategic recommendation for the client.</p>
+<div id="recruiters" class="section level2 hasAnchor" number="7.3">
+<h2><span class="header-section-number">7.3</span> Recruiters<a href="networking.html#recruiters" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="behavioral-interviews" class="section level3 hasAnchor" number="8.2.3">
-<h3><span class="header-section-number">8.2.3</span> Behavioral Interviews<a href="interviews.html#behavioral-interviews" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Behavioral-based interview is interviewing based on discovering how candidates acted in specific business-related situations. How candidates behaved in the past will predict how candidates will behave in the future workplace which is an important part for companies to consider. In a behavioral interview, an interviewer has decided what skills are needed in the person the company hires and will ask questions to find out if the candidate has those skills. Instead of asking how candidates would behave, interviewers will ask how candidates did behave.</p>
-</div>
-<div id="technical-interviews" class="section level3 hasAnchor" number="8.2.4">
-<h3><span class="header-section-number">8.2.4</span> Technical Interviews<a href="interviews.html#technical-interviews" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Technical interviews are common for those recruiting technology or software roles. They serve as a way for employers to test one’s problem-solving skills, communication abilities, and technical expertise. These interviews typically last between 45-60 minutes and can occur at any time during the hiring process. Questions can consist of traditional behavioral questions, brainteasers, technical proficiency tests, and problem-solving questions. When assessing your answers recruiters are given a glimpse into how you may solve real problems in the workplace; therefore, it is key to explain your thought process and the mental steps you take towards your solution.</p>
-</div>
-</div>
-<div id="proper-interview-follow-up-methods" class="section level2 hasAnchor" number="8.3">
-<h2><span class="header-section-number">8.3</span> Proper Interview Follow-Up Methods<a href="interviews.html#proper-interview-follow-up-methods" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<div id="the-thank-you-note" class="section level3 hasAnchor" number="8.3.1">
-<h3><span class="header-section-number">8.3.1</span> The Thank-You Note<a href="interviews.html#the-thank-you-note" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>Each time you interact with a new interviewer, it is a good idea to send a thank-you email within 24-48 hours of the meeting. These emails should be short and sweet, focused on demonstrating excitement and appreciation.</p>
-<p><strong>Subject line: Thank you for your time</strong></p>
-<p>Dear Ms. Owekwe,</p>
-<p>Thank you for taking the time to speak with me about the marketing coordinator role. It was great to meet with you and learn more about the position.</p>
-<p>I’m very excited about the opportunity to join Horizon Marketing and am particularly interested in the details you shared about the upcoming launch of the brand campaign. I’m enthusiastic about the prospect of taking on some of the project management and bringing my experience in successfully coordinating cross-functional initiatives to the table.</p>
-<p>After our conversation, I’m confident that my background in marketing and my interest in brand growth will enable me to fill the job requirements effectively and support the vision of Horizon. Please feel free to contact me if I can provide you with any further information or samples of my work. I look forward to hearing from you.</p>
-<p>Thanks again,</p>
-<p>Jerry Mendelson</p>
-<p>555-555-5555</p>
-<p><a href="mailto:jerrym@email.com" class="email">jerrym@email.com</a></p>
-</div>
-<div id="the-follow-up-note" class="section level3 hasAnchor" number="8.3.2">
-<h3><span class="header-section-number">8.3.2</span> The Follow-Up Note<a href="interviews.html#the-follow-up-note" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>It is important to give your recruiter time to respond. It is recommended that you wait at least a week after the expected reply date to send a message, if you have not yet heard back from a recruiter. The message should be no more than three paragraphs and the content should be similar to your thank-you note; make sure to express excitement about the role and ask if any additional information is needed.</p>
-<p><strong>Subject line: Checking in RE: marketing coordinator role</strong></p>
-<p>Dear Yesenia,</p>
-<p>I hope you’re well! I’m checking in on the marketing coordinator role. It was great to meet with the team earlier and I’m looking forward to your update. Please let me know if there’s anything else I can provide to assist in the decision-making process.</p>
-<p>Thank you,</p>
-<p>Rachel Cole</p>
-<p>555-555-5555</p>
-<p><a href="mailto:rcole@email.com" class="email">rcole@email.com</a></p>
-</div>
-<div id="the-feedback-note" class="section level3 hasAnchor" number="8.3.3">
-<h3><span class="header-section-number">8.3.3</span> The Feedback Note<a href="interviews.html#the-feedback-note" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-<p>If you feel as though an interview went well, but weren’t offered the job, you can send an additional email asking for feedback. The message should be brief, thanking the interviewer for their time and asking for constructive feedback on how to improve. Often recruiters may not take the time to give you feedback, but in certain situations it can open the doors for new opportunities.</p>
-<p><strong>Subject Line: Potential Interview Feedback - Joe Shmoe</strong></p>
-<p>Dear [manager],</p>
-<p>I was disappointed to learn that I did not get an offer following my interview on [date]. I enjoyed our conversation and am impressed with the work that [company] does. Because I am new to the job search, I was hoping you could give me some feedback on my interview. I would like to ensure that I present myself as effectively as possible in the future. Any suggestions you could give me would be appreciated.</p>
-<p>Best,</p>
-<p>Joe Shmoe</p>
-<p>555-555-5555</p>
-<p><a href="mailto:jshmoe@email.com" class="email">jshmoe@email.com</a></p>
-</div>
-<div id="mock-interview-questions" class="section level3 hasAnchor" number="8.3.4">
-<h3><span class="header-section-number">8.3.4</span> Mock Interview Questions<a href="interviews.html#mock-interview-questions" class="anchor-section" aria-label="Anchor link to header"></a></h3>
-</div>
-</div>
-<div id="case" class="section level2 hasAnchor" number="8.4">
-<h2><span class="header-section-number">8.4</span> Case<a href="interviews.html#case" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Bain - <a href="https://www.bain.com/careers/interview-prep/case-library/coffee-case-study/">Coffee Shop Co.</a></p>
-<p>BCG - <a href="https://mconsultingprep.com/case-interview-examples/">Chateau Boomerang</a></p>
-<p>Deloitte - <a href="https://caseinterviewprep.deloitte.com/cases/apa/ug/1">Technology Implementation Strategy</a></p>
-<p>Deloitte - <a href="https://caseinterviewprep.deloitte.com/cases/strategy/adv/2">Federal Health Agency</a></p>
-<p>Accenture - <a href="https://caseinterviewprep.deloitte.com/cases/strategy/adv/2">Case Interview Workbook</a></p>
-</div>
-<div id="behavioral" class="section level2 hasAnchor" number="8.5">
-<h2><span class="header-section-number">8.5</span> Behavioral<a href="interviews.html#behavioral" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>Tell me about yourself / Run me through your resume</p>
-<p>What is your greatest strength/weakness?</p>
-<p>Tell me about your proudest accomplishment</p>
-<p>Give me an example of a time you faced a conflict with a coworker. How did you handle that?</p>
-<p>Tell me about a time you failed. How did you deal with the situation?</p>
-</div>
-<div id="technical" class="section level2 hasAnchor" number="8.6">
-<h2><span class="header-section-number">8.6</span> Technical<a href="interviews.html#technical" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<p>What coding language are you most comfortable with?</p>
-<p>What is a SAN, and how is it used?</p>
-<p>When is it appropriate to denormalize database design?</p>
-<p>How would you design a touch interface for a device?</p>
-<p>Can you give an example of when you acquired a technical skill, and converted it into a practical application?</p>
-<div id="story-banks-and-example-responses" class="section level3 hasAnchor" number="8.6.1">
-<h3><span class="header-section-number">8.6.1</span> Story Banks and Example Responses<a href="interviews.html#story-banks-and-example-responses" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<div id="how-to-write-professional-emails" class="section level2 hasAnchor" number="7.4">
+<h2><span class="header-section-number">7.4</span> How to write professional emails<a href="networking.html#how-to-write-professional-emails" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <ol style="list-style-type: decimal">
-<li>Procurement System Project</li>
+<li><p>Brief: Less than 75 words</p></li>
+<li><p>Human: Connection goes first</p></li>
+<li><p>Subtle: Request advice &amp; insight, not job assistance</p></li>
+<li><p>Direct: Make your ask in the form of a question</p></li>
+<li><p>Egoless: Over half the word count is about the contact(no ‘about me’)</p></li>
+<li><p>Sincere: Define interest narrowly (“your experience at Company X”) and broadly (“brand management in
+the east coast tech space”)</p></li>
 </ol>
-<p>S - Over this summer at RemeGen Biosciences, the head of operations as well as the head of biology wished to integrate a new procurement/inventory management system for the lab.</p>
-<p>T - I was tasked with researching, demonstrating, and presenting several pre-selected systems to the executive team with my recommendation for the optimal choice. After weeks of due diligence and research I had a recommendation I was happy with.</p>
-<p>A - After the initial presentation, I was told that the executive team wanted to explore other options and that I was to research other systems. I was discouraged but went back and re-evaluated all systems within the industry, primarily focusing on ease of accessibility for scientists, integration into our current system of quickbooks, and the overall cost for the first three years.</p>
-<p>R - After presenting all my research to various executives, they were pleased and chose my recommendation. It was actually really cool because in the last week of my internship I was able to see the rollout of the system, and it was extremely rewarding. I was taught to not be discouraged after a single failure and the ability to persevere.</p>
-<ol start="2" style="list-style-type: decimal">
-<li>Brotherhood Chair through Covid</li>
-</ol>
-<p>S - I was positioned during the onset of the COVID-19 pandemic as the brotherhood chair of my professional business fraternity.</p>
-<p>T - We had scheduled and budgeted events for the entire semester, but had to move events virtually and found an glaring lack of attendance at the beginning as we attempted to continue with our original plans</p>
-<p>A - My co-chair was a newly-joined member and had not experienced previous in-person brotherhood events, so I took it upon myself to schedule meetings with the co-chair as well as the VP of membership to discuss shortcomings and marketing failures. We created a new wave of events focused on member interaction, for example we hosted a virtual talent show that was a huge success. I got to watch one of my best friends freestyle and got to see a side of people I had never seen before.</p>
-<p>R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel.</p>
-<ol start="3" style="list-style-type: decimal">
-<li>Redefine Clothing Brand</li>
-</ol>
-<p>S - Seeing the rise in AAPI hate crimes and anti-asian sentiment across America, my two closest friends and I created a clothing brand, Redefine Worldwide, which works to redefine Asian Stereotypes.</p>
-<p>T - For the past 6 months i’ve been working to help create our first merchandise collection, which just February 1st on Chinese New Year</p>
-<p>A - To do this I set up our shopify website, created designs and mocks, worked to expand our social media marketing, and sourced a manufacturer that has worked with the likes of Kanye West and Young Thug.</p>
-<p>R - The culmination of these things has allowed us to generate above $600 in pre-sale profit, and at the end of the month a percentage of our total sales will be donated to ACT TO CHANGE, a nonprofit working to combat AAPI hate crimes.</p>
 </div>
+<div id="using-linkedin-for-networking" class="section level2 hasAnchor" number="7.5">
+<h2><span class="header-section-number">7.5</span> Using LinkedIn for networking<a href="networking.html#using-linkedin-for-networking" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 </div>
-<div id="interview-tips" class="section level2 hasAnchor" number="8.7">
-<h2><span class="header-section-number">8.7</span> Interview Tips<a href="interviews.html#interview-tips" class="anchor-section" aria-label="Anchor link to header"></a></h2>
-<ol style="list-style-type: decimal">
-<li>Carefully examine the job description</li>
-<li>Consider why you are interviewing and your qualifications</li>
-<li>Research on the company and role</li>
-<li>Clarify your “selling points” and the reasons you want the job</li>
-<li>Consider your answers to common interview questions</li>
-<li>Arrange enough time to prepare different types of interviews</li>
-<li>Conducting mock interviews with real person helps</li>
-<li>Practice your speaking voice and body language</li>
-<li>Prepare thoughtful questions for the interviewer</li>
-<li>Get ready to follow up after the interview</li>
-<li>Practice, practice, practice!</li>
-<li>Think positive!</li>
-<li>Be confident!</li>
-</ol>
+<div id="coffee-chat-what-to-say" class="section level2 hasAnchor" number="7.6">
+<h2><span class="header-section-number">7.6</span> Coffee chat – what to say<a href="networking.html#coffee-chat-what-to-say" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>Informal coffee meetings can sometimes prove the most consequential of your career. But it’s easy to be deceived by the casualness of an invitation to grab a coffee and imagine these opportunities are less important than they can be. They aren’t actually job interviews or pitch meetings, but they’re more intentional than chance conversations at networking events.</p>
+<p><strong>1. Know Your Desired Outcome, But Start With Small Talk</strong></p>
+<p>You can begin with three questions:</p>
+<p>– How’s your day going so far (temp check – are they chatty)</p>
+<p>– How did you join your organization? (you don’t get to talk more than 2 mins)</p>
+<p>– What are you working on right now (optional)</p>
+<p><strong>2. Connect by Asking Rapport Building Questions</strong></p>
+<p>In this section, you need to ask questions that are flattering and fun to answer and you can use TIARA method in Q&amp;A.TIARA is a proven systematic approach to build like ability with other people and your guide for the Q&amp;A portion of any informational interview.</p>
+<p><strong>TIARA Question Examples</strong></p>
+<p>T-Trends: Try to make trend questions specific to the company, industry or function for the person you are interviewing.</p>
+<p>Example Questions:</p>
+<p>– “What are the big things your company is thinking about?”</p>
+<p>– “How are changing consumer trends affecting your company’s
+products?”</p>
+<p>– “How is your company keeping pace with all the innovation in the
+Industry?”</p>
+<p>– “How is your company leveraging technology like VR?</p>
+<p>Insights: “What surprises you most about your work?”</p>
+<p>Advice: “What do you know now that you’d wish you knew as a student?”</p>
+<p>Resources: “What resources do you recommend I look into next?”</p>
+<p>Assignments: “What kinds of experience, paid or unpaid,would you encourage for anybody pursuing a career in this field?”</p>
 
 </div>
 </div>
@@ -338,8 +274,8 @@
           </div>
         </div>
       </div>
-<a href="networking.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="references.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="application-materials.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="interviews.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
