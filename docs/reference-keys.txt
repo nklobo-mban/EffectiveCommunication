@@ -145,3 +145,5 @@ implementing-agile-practices
 team-reflection
 analytics-terms
 analytics-toolbox
+r.markdown
+github
