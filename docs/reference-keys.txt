@@ -91,6 +91,7 @@ acquiring-user-stories
 changing-the-scope-of-our-project
 team-development
 team-charter
+mid-point-check-in
 team-norms
 divison-of-work
 implementing-agile-practices
