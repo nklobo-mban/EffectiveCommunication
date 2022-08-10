@@ -38,13 +38,17 @@ R is a language and environment for statistical computing and graphics. R provid
 
 Easy Installation:
 
-  + Step 1:  [![Recommend](Anaconda.jpg)](https://www.anaconda.com/)
+  + Step 1: 
+  
+  [![Recommend](Anaconda.jpg)](https://www.anaconda.com/)
 
   + Step 2: Open Anaconda Prompt
   
   + Step 3: Type "conda install r"
 
-Official Installation: [![R](R.jpg)](https://www.python.org/downloads/)
+Official Installation:
+
+[![R](R.jpg)](https://www.python.org/downloads/)
 
 [Online R Programming Tutorial](https://www.coursera.org/learn/data-analysis-r)
 
