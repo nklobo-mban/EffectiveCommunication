@@ -1,5 +1,4 @@
 # Interviews
-## Interviews & Preparation
 Job interview is a crucial step of the job application process. Usually, interview processes are between application review and final offer call which will be the step that determines whether the candidate can get an offer. If the candidate gets an interview invitation, the candidate is halfway successful in the job application.
 
 Preparing for an interview means that candidates will need to take time to thoughtfully consider his/her goals and qualifications relative to the position and employer. In order to accomplish this, the candidate must dig into the company and carefully review the job description to understand the fundamental reason that the candidate will be the best fit. 
@@ -79,21 +78,31 @@ Joe Shmoe
 jshmoe@email.com
 
 
-### Mock Interview Questions
 
-## Case
+## Mock Interview Questions
 
+### Case
 Bain - [Coffee Shop Co.](https://www.bain.com/careers/interview-prep/case-library/coffee-case-study/)
+
+In this case one will evaluate the potential of opening a coffee shop, performing market sizing and financial analyses.
 
 BCG - [Chateau Boomerang](https://mconsultingprep.com/case-interview-examples/)
 
+In this case one will create a 3-5 page slide deck in which they examine the U.S wine market for an Australian producer.
+
 Deloitte - [Technology Implementation Strategy](https://caseinterviewprep.deloitte.com/cases/apa/ug/1)
+
+In this case one will recommend a strategy in implementing a new driving technology, focusing on how risk will be mitigated and how to maximize the impact of the technology
 
 Deloitte - [Federal Health Agency](https://caseinterviewprep.deloitte.com/cases/strategy/adv/2)
 
+In this case one is tasked with managing a $1 billion Ebola emergency fund, creating a draft of how the money should be properly divided and used.
+
 Accenture - [Case Interview Workbook](https://caseinterviewprep.deloitte.com/cases/strategy/adv/2)
 
-## Behavioral
+This workbook breaks down how one should approach a case study, giving multiple sample frameworks and practice cases.
+
+### Behavioral
 
 Tell me about yourself / Run me through your resume
 
@@ -105,7 +114,7 @@ Give me an example of a time you faced a conflict with a coworker. How did you h
 
 Tell me about a time you failed. How did you deal with the situation?
 
-## Technical
+### Technical
 
 What coding language are you most comfortable with?
 
@@ -117,8 +126,24 @@ How would you design a touch interface for a device?
 
 Can you give an example of when you acquired a technical skill, and converted it into a practical application?
 
+How many years of SQL programming experience do you have? In your latest job, how many of your analytical projects involved using SQL?
 
-### Story Banks and Example Responses
+NOTE: One should be prepared to demonstrate skills in programming and coding languages such as Python R, etc. and be able to answer questions regarding SQL, Tableau, and Excel. Be prepared for a live examination of skills.  
+
+
+## Story Banks and Example Responses
+
+### The STAR Method
+The STAR Method
+When answering behavioral questions, or any other story-based questions, one should always respond using the STAR method. The STAR method follows is an interview technique in which one lays out the Situation, Task, Action, and Result of a story, giving an interviewer a digestible, yet complete, vision of what one accomplished. One should keep their answers concise, aiming for one to two sentences per letter; however, the most focus should be placed on the Action and Result sections. 
+
+- Situation - Begin your story by setting the scene. You should describe specifics of the event, giving enough details for an interviewer to have a clear picture of what was happening.
+
+- Task - The task section is where we discuss what exactly your role was in the aforementioned  situation. Give specifics of what your responsibilities were and the expectations that were placed on you. Do not use this section to discuss your actions, save this for the next section.
+
+Action - In this section one will detail exactly how they solved the given problem and the specific steps he/she took. Make sure to avoid vague answers such as, “I worked hard to..”; always give specifics, this is your chance to show off your skills and expertise. 
+
+Results - This is where you show the fruits of your labor. Show what results you achieved and do your best to quantify the effects; you could mention long-term effects of your actions or any other positives that occur, make sure that all results are positive even when discussing a negative situation.
 
 1. Procurement System Project
 
@@ -137,10 +162,9 @@ S - I was positioned during the onset of the COVID-19 pandemic as the brotherhoo
 
 T - We had scheduled and budgeted events for the entire semester, but had to move events virtually and found an glaring lack of attendance at the beginning as we attempted to continue with our original plans
 
-A - My co-chair was a newly-joined member and had not experienced previous in-person brotherhood events, so I took it upon myself to schedule meetings with the co-chair as well as the VP of membership to discuss shortcomings and marketing failures. We created a new wave of events focused on member interaction, for example we hosted a virtual talent show that was a huge success. I got to watch one of my best friends freestyle and got to see a side of people I had never seen before.
+- A - My co-chair was a newly-joined member and had not experienced previous in-person brotherhood events, so I took it upon myself to schedule meetings with the co-chair as well as the VP of membership to discuss shortcomings and marketing failures. We created a new wave of events focused on member interaction, for example we hosted a virtual talent show that was a huge success. I got to watch one of my best friends freestyle and got to see a side of people I had never seen before.
 
-R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel. 
-
+- R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel. 
 
 3. Redefine Clothing Brand
 
