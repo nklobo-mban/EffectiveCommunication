@@ -4,7 +4,21 @@ To create this guide our team followed agile practices and used different skills
 
 ## The Process 
 ### Development of our Project Idea 
-### Utlizing R.Markdown and GitHub 
+### Utlizing R.Markdown and GitHub
+In order to present a user-friendly and creative guidance, our team leveraged the following R Markdown features:
+
++ timevis package
+
++ css background formating
+
++ css toc formating
+
++ adding website links with photos
+
++ theme customization
+
+For GitHub, each member of our team is able to push and pull in r studio to update work to the repository. Besides, we demonstrate our product by using github repository website.
+
 ### Acquiring User Stories 
  A third of the way through the development of this project, we conducted interviews with our peers and other Ross students to get an understanding of what type of information the users of this website want and what resources and tools would be helpful to them. To pick these users we thought about the types of individuals that would be looking for information about effective communication. We decided that our users were prospective and current MBAn and Ross students and MBAn and Ross alumni who are looking for jobs in analytics. 
  
