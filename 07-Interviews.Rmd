@@ -141,9 +141,9 @@ When answering behavioral questions, or any other story-based questions, one sho
 
 - Task - The task section is where we discuss what exactly your role was in the aforementioned  situation. Give specifics of what your responsibilities were and the expectations that were placed on you. Do not use this section to discuss your actions, save this for the next section.
 
-Action - In this section one will detail exactly how they solved the given problem and the specific steps he/she took. Make sure to avoid vague answers such as, “I worked hard to..”; always give specifics, this is your chance to show off your skills and expertise. 
+- Action - In this section one will detail exactly how they solved the given problem and the specific steps he/she took. Make sure to avoid vague answers such as, “I worked hard to..”; always give specifics, this is your chance to show off your skills and expertise. 
 
-Results - This is where you show the fruits of your labor. Show what results you achieved and do your best to quantify the effects; you could mention long-term effects of your actions or any other positives that occur, make sure that all results are positive even when discussing a negative situation.
+- Results - This is where you show the fruits of your labor. Show what results you achieved and do your best to quantify the effects; you could mention long-term effects of your actions or any other positives that occur, make sure that all results are positive even when discussing a negative situation.
 
 1. Procurement System Project
 
@@ -162,9 +162,9 @@ S - I was positioned during the onset of the COVID-19 pandemic as the brotherhoo
 
 T - We had scheduled and budgeted events for the entire semester, but had to move events virtually and found an glaring lack of attendance at the beginning as we attempted to continue with our original plans
 
-- A - My co-chair was a newly-joined member and had not experienced previous in-person brotherhood events, so I took it upon myself to schedule meetings with the co-chair as well as the VP of membership to discuss shortcomings and marketing failures. We created a new wave of events focused on member interaction, for example we hosted a virtual talent show that was a huge success. I got to watch one of my best friends freestyle and got to see a side of people I had never seen before.
+A - My co-chair was a newly-joined member and had not experienced previous in-person brotherhood events, so I took it upon myself to schedule meetings with the co-chair as well as the VP of membership to discuss shortcomings and marketing failures. We created a new wave of events focused on member interaction, for example we hosted a virtual talent show that was a huge success. I got to watch one of my best friends freestyle and got to see a side of people I had never seen before.
 
-- R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel. 
+R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel. 
 
 3. Redefine Clothing Brand
 
