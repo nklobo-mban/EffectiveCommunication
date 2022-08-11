@@ -13,6 +13,14 @@ Reach out to one person from each company at the same time
 
 Follow the “3B7” model of timing/tracking your outreach
 
+Set two reminders on your calendar:
+
+Reminder 1:  3 business days later
+
+Reminder 2:  7 business days later
+
+If receive response before Reminder 1 (within 3 days – yay!), schedule information session ASAP!
+
 ![](3B7.PNG)
 
 **Step 2: Recap**
@@ -41,11 +49,46 @@ Use the TIARA framework(more information would be added in coffee chat section)
 
 – Next Steps
 
-## Alumni
-
-## Recruiters
+– Follow-up at 7 day mark  (if no response) via phone or email 
 
 ## How to write professional emails
+
+A lot of the times we tell you to talk about your background, relate it to the employer, etc. This time, that’s not what you want to do!
+
+Fewer than 100 words
+
+“According to a 2008 Radicati Group study, 78% of all email sent that year was spam…For the typical user, four out of five emails should be ignored.  If your name isn’t recognized by the recipient, your content needs to get to the point quickly.” 
+
+“By keeping your initial outreach under one hundred words, you’re minimizing the chances that you’ll (1) make grammatical and/or spelling mistakes or (2) accidently alienate your contact through your tone, word choice, or word count.  
+
+No mention of jobs anywhere (subject or body)
+
+They’ll know you’re job searching and that’s OK!
+
+Boosters want to help you, but their help is only useful if it’s given voluntarily.
+
+The contact needs to develop a level of comfort and trust with you before they are willing to put their reputation on the line and vouch for you
+
+Earning a booster requires an investment
+
+Connection goes first
+
+You need to give the contact a reason to care quickly so he or she will actually pay attention.  Identifying that connection right up front maximizes your chance of getting your message read.
+
+Generalize your interest
+
+If the contact’s organization is not hiring he/she may still have relevant contacts to share or helpful advice to offer.  This would be a super booster!
+
+Maintain control of follow-up
+
+You demonstrate deference to their schedules, showing you appreciate that their time is more valuable than yours.
+
+You demonstrate the commitment to making the connection happen, which differentiates you from the vast majority of job seekers who will email once and give up if they don’t hear back.  
+
+Also gives a sense of urgency about responding to you  which increases your response rate.
+Maintains control of the follow up allows you to systematically initiate and track your outreach with little to no decision anxiety.  
+
+To remember:
 
 1. Brief: Less than 75 words
 
@@ -62,11 +105,35 @@ the east coast tech space”)
 
 ## Using LinkedIn for networking 
 
+Networking on LinkedIn is one of the main features of the platform. With over 760+ million users on the platform, you can start networking with people all over the world today. And with a meaningful connection request, you can connect with most people whether you know them personally or not.
+
+5 Most Popular Ways to Network on LinkedIn:
+
+### Connection requests
+
+Sending a connection request is the most obvious and direct way to connect with someone on Linkedin. To send one, all you have to do is head on over to someone’s profile and click on the Connect button. Though, make sure you always include a personalized note (ideally, a hyper-personalized one)!
+
+### LinkedIn searches
+
+You can filter your LinkedIn search results to connect with even more specific people. You can use the advanced search function on LinkedIn, fill in Employer name, select “current”.  You may also want to specify “University of Michigan” in ‘School’ to leverage your mutual alumni status with potential contacts.
+
+### ‘People you may know’ section
+
+Once you start gathering some connections, you can use this networking hack to find more people instantly. Simply go to My Network and scroll down until you see the “people you may know” section. This is a great ‘quality over quantity’ approach as you’re more likely to find relevant people worth networking from your niche here.
+
+### LinkedIn events
+
+LinkedIn events are one of the best ways to network on LinkedIn because nothing is holding you back from connecting with most people who attended the same event as you. This is especially the case if you’re new to LinkedIn and not sure where to find like-minded people. Simply go to My Network and scroll down until you find the “Online events for you” section. If your LinkedIn profile is filled in and you already have a couple of connections, LinkedIn should suggest some events for you based on your industry.
+
+### LinkedIn groups
+
+LinkedIn groups are another popular networking tactic. LinkedIn groups allow you to reach a targeted audience of industry professionals and establish relationships with people by having something in common (the group, same niche, etc.). All you have to do is type in keywords related to your industry and you’ll find loads of LinkedIn groups to choose from.
+
 ## Coffee chat – what to say
 
 Informal coffee meetings can sometimes prove the most consequential of your career. But it’s easy to be deceived by the casualness of an invitation to grab a coffee and imagine these opportunities are less important than they can be. They aren’t actually job interviews or pitch meetings, but they’re more intentional than chance conversations at networking events.
 
-**1. Know Your Desired Outcome, But Start With Small Talk**
+### Know Your Desired Outcome, But Start With Small Talk
 
 You can begin with three questions:
 
@@ -76,11 +143,11 @@ You can begin with three questions:
 
 – What are you working on right now (optional)
 
-**2. Connect by Asking Rapport Building Questions**
+### Connect by Asking Rapport Building Questions**
 
 In this section, you need to ask questions that are flattering and fun to answer and you can use TIARA method in Q&A.TIARA is a proven systematic approach to build like ability with other people and your guide for the Q&A portion of any informational interview.
 
-**TIARA Question Examples**
+**TIARA And Question Examples**
 
 T-Trends: Try to make trend questions specific to the company, industry or function for the person you are interviewing. 
 
@@ -96,10 +163,64 @@ Industry?”
 
 – “How is your company leveraging technology like VR?
 
-Insights: “What surprises you most about your work?”
+I-Insights: Insight questions slowly bring the interview down to a personal level. Ask your interviewee about their specific experiences, day-to-day work, and career pathway. 
 
-Advice: “What do you know now that you’d wish you knew as a student?”
+Example Questions:
 
-Resources: “What resources do you recommend I look into next?”
+– “What is the most challenging part of your job?”
 
-Assignments: “What kinds of experience, paid or unpaid,would you encourage for anybody pursuing a career in this field?”
+– “What is the most rewarding project you’ve worked on so far?”
+
+– “How did you manage your career switch?”
+
+A-Advice: Asking for advice brings the conversation back to you.
+
+Example Question:
+
+– “What should I be doing right now to prepare myself for a career in this industry?
+
+R-Resources: Ask for tools, blogs, websites, and other resources that the interviewee can recommend. This begins to close your conversation while giving you reasons to follow up with your interviewee later!
+
+Example Questions:
+
+– “What resources should I be looking at to learn more about this industry/function?”
+
+– “What next steps would you recommend I take if I plan to pursue a career in this industry?”
+
+A-Assignments: Asking “assignment” questions can give you another reason to follow up with your interviewee and show your dedication to the field.
+
+Example Question:
+
+– “What kinds of projects seem to add the most value to your organization? I’d like to see if I can start doing that kind of work in my classes at UMSI.”
+
+– “What tools or skills does your team really value for new employees? I’d like to start working on those during my time at UMSI.”
+
+### Close & Ensure Next Steps!**
+
+You’ve completed your TIARA questions! Wrap up your informational interview by ensuring next steps:
+
+Example: “I truly enjoyed our conversation today and you’ve given me a lot to think about. Would you mind if I reached out again if I have additional questions about the industry and specifically your company as I move forward?”
+
+Be sure to send a follow-up thank you email and set up a recurring one-month reminder
+
+What’s in monthly check-in?
+
+–Thanks again
+
+–Recap of advice given in previous conversation
+
+–Summary of benefits derived from following that advice
+
+–Request for further suggestions
+
+### Wrap-Up
+
+Typically three outcomes of an informational interview:
+
+-Advance:  immediately or shortly after connects you to a hiring manager or asks for your resume to pass along themselves
+
+-Hold:  still responds to your follow-up messages, but doesn’t have any further helpful information. Focus your efforts elsewhere until it’s time to check-in again.
+
+-Drop:  stops responding to your follow-up messages. Start trying to find a new contact.
+
+
