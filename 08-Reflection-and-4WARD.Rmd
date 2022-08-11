@@ -1,5 +1,52 @@
 # GO 4WARD!
 
+To create this guide our team followed agile practices and used different skills to work effectively as a team. These skills were mostly developed in the MBAn 501 course. In this section of our website, we will explain the process we went through to build this guide and the different skills and practices we implemented to work as an effective team. Additionally, we will summarize how our team worked together to produce this product and reflect on any improvements that we could have to work better as a team. 
+
+## The Process 
+### Development of our Project Idea 
+### Utlizing R.Markdown and GitHub
+In order to present a user-friendly and creative guidance, our team leveraged the following R Markdown features:
+
++ timevis package
+
++ css background formating
+
++ css toc formating
+
++ adding website links with photos
+
++ theme customization
+
+For GitHub, each member of our team is able to push and pull in r studio to update work to the repository. Besides, we demonstrate our product by using github repository website.
+
+### Acquiring User Stories 
+ A third of the way through the development of this project, we conducted interviews with our peers and other Ross students to get an understanding of what type of information the users of this website want and what resources and tools would be helpful to them. To pick these users we thought about the types of individuals that would be looking for information about effective communication. We decided that our users were prospective and current MBAn and Ross students and MBAn and Ross alumni who are looking for jobs in analytics. 
+ 
+Throughout this process, we found that students do not need to learn how to communicate and collaborate effectively but they want to learn how to communicate effectively when they are networking, writing their resumes, and interviewing for different jobs. This includes learning about specific vocabulary related to data and analytics. Through this interview process we asked our users about what information and resources they felt were not available to them. Once we completed these interviews we met as a team and decided to change the scope of our project. 
+
+### Changing the Scope of our Project 
+
+As a team, we utilized the information we gathered during the user story interviews we conducted to change the scope of our project from effective communication and collaboration to effective communication in analytics recruiting. Once we changed the scope of our project we came together as a team to brainstorm how to organized our new project. We created an outline and presented it to some of the individuals we interviewed for our users stories and got some more feedback and made those changes to ensure that our product could be used a helpful resource for our users. 
+
+
+## Team Development 
+### Team Charter 
+
+Before we began working on our project, we first created a team charter to help create a group purpose and vision. In our charter we detailed goals, team expectations, schedules, and listed strengths and weaknesses of each member. This process made it so that we felt personally connected to the project and helped us attach meaning to it. We were also able to become more connected as a group, learning more about different members and their values.
+
+### Mid-Point Check-In
+
+A few weeks into working on our project, we were given a survey in which we were to gauge our group processes and evaluate team strengths and weaknesses. We were then given data based on our group’s answers and told to discuss. This allowed our group to look inwards and re-evaluate how to approach the project in the remaining weeks, something that we had not done until that point. This gave us the opportunity to have an open-conversation in which we felt comfortable voicing concerns; we found that members of the group needed to participate more and that there needed to be more urgency in completing the project. The Check-In facilitated a discussion that allowed us to maximize the potential of our group and smoothen any roadblocks.
+
+### Team Norms 
+### Divison of Work 
+### Implementing Agile Practices 
+
+
+## Team Reflection 
+
+
+
 
 
 
