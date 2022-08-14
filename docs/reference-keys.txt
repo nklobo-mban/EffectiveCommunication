@@ -54,14 +54,15 @@ it-systems-analyst
 >>>>>>> 6fcbcf96896e23806e3c4a629c9f0f9b1474f0fd
 analytical-positions
 data-scientist-1
+=======
 companies-that-offer-jobs-in-analytics
 section-2
+>>>>>>> fba27d82be7625732f318849a7e8dc5ef4c39152
 proper-interview-follow-up-methods
 the-thank-you-note
 mock-interview-questions
 story-banks-and-example-responses
 interview-tips
-=======
 where-to-look-for-jobs-that-utilze-analytics
 linkedin
 indeed

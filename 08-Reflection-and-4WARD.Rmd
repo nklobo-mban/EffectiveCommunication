@@ -61,6 +61,12 @@ Our group implemented Agile Practices in the following aspects:
   
 + We adopt face-to-face communication for most of the project discussions
 
++ We set the project vision and scope with a planning meeting to determine what is our end goal of the project and how we will achieve it
+
++ We created a release plan for our project
+
++ We kept our team on track with daily stand-ups
+
 ## Team Reflection 
 
 Overall our team has great team cooperation. Each of us did a great job in finishing their part of work. There’s few things that we can do better:
