@@ -40,6 +40,9 @@ A few weeks into working on our project, we were given a survey in which we were
 
 ### Team Norms 
 ### Divison of Work 
+
+In order to make our team efficient and finish our project on time, we divided our project into five different parts: an analytics dictionary, types of analytics Jobs, application materials, networking, and interviews. The interview part requires a lot of work and resources, in this case, we decided to assign two members to this part. It turned out that our division of labor was successful and we finished our project one week before the deadline.
+
 ### Implementing Agile Practices 
 
 
