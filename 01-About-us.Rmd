@@ -1,4 +1,4 @@
-# About Us
+# About Us{#us}
 
 Hi! We are Team 4Ward! Excited to meet you all! Before our journey to the guidance, we would like to introduce ourselves to you, and of course, if you have any questions about this guidance, don't hesitate to contact us! 
 
@@ -7,7 +7,7 @@ Hi! We are Team 4Ward! Excited to meet you all! Before our journey to the guidan
 Fig.2 Team 4WARD
 </div>
 
-## Joe(Yuzhou) Zhai
+## Joe (Yuzhou) Zhai
 
 Hi! I'm Joe(Yuzhou) Zhai, from Shanghai, China. I'm a Graduate student majoring in Business Analytics at University of Michigan - Stephen M. Ross School of Business. I Graduated from Shanghai Jiao Tong University, majoring in Electrical and Computer Engineering, with a minor in Data Science. I'm an Energetic and creative student leader with proven abilities of managing large teams and organizing events. I am Deeply passionate about studying and leveraging data analytical skills to unravel key answers from large, varied and complex datasets in business intelligence field.
 
@@ -45,7 +45,7 @@ Email: chenandy@umich.edu
 Tel: (650)245-3987
 
 
-## Max(Hongli) Xuan
+## Max (Hongli) Xuan
 
 My name is Hongli Xuan(I can also go by Max!) and I am a master student majoring in Business Analytics. I am originally from Zhejiang, China and have been studying abroad since 2017. My undergraduate year was pursued at the University of Oregon. I am interested in the consulting industry, especially the strategy department. 
 
@@ -64,7 +64,7 @@ Email: hxuan@umich.edu
 Tel: (458)201-9947
 
 
-## Jimmy(Hao) Zhou
+## Jimmy (Hao) Zhou
 
 My name is Jimmy Zhou and I am from China. I just graduated from Penn State University in May 2022, majoring in Finance with a minor in Information System Management. I am currently pursuing a Master of Business Analytics at University of Michigan Ross School of Business.
 

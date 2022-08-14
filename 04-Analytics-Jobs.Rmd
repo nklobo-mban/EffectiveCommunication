@@ -1,11 +1,13 @@
-# Analytics Jobs
+# Jobs{#job}
 
-## Types of Job that Use Data Analytics 
+It can be very overwhelming researching, looking, and applying for jobs. In this section of our website, you will find information about different types of jobs that utilize data analytics and what resources to use when you are looking and applying for these types of positions. 
 
-There are many different types of jobs that individuals with strong analytical skills can work in. However, below we have listed ten of the most common jobs that require individuals to have strong analytical and programing skills.  
+## Jobs that Use Data Analytics 
+
+There are many different jobs that individuals with strong analytical skills can work in. However, below we have listed ten of the most common jobs that require individuals to have strong analytical and programming skills.  
 
 ### Business Intelligence Analyst 
-  + A business intelligence analyst extracts value from company data to make business decisions. 
+  + A business intelligence analyst extracts value from company data to make business decisions. %>% 
   + Requirements
       + Experience with SQL, python, R, and  data visualization tools
       + Have a good understanding of business practices and finance  
@@ -23,7 +25,7 @@ There are many different types of jobs that individuals with strong analytical s
   + Average salary: $69,319 USD
 
 ### Data Scientist 
-  + A data scientist acquies, utilizes, and analyzes data to help a company make decisions and improve business operations.
+  + A data scientist acquires, utilizes, and analyzes data to help a company make decisions and improve business operations.
   + Requirements:
     + Analytical problem solving skills 
     + Experience with AI, statistical modeling,  and machine learning
@@ -87,7 +89,7 @@ There are many different types of jobs that individuals with strong analytical s
     + Excellent analytical skills 
     + Strong organizational and leadership skills 
     + Have a good understanding of business processes 
-  +Average Salary: $79,500 USD 
+  + Average Salary: $79,500 USD 
 
 ### IT Systems Analyst 
   + An IT systems analyst is responsible for implementing, maintaining and supporting different IT and information systems that a company needs to grow. 
@@ -97,3 +99,33 @@ There are many different types of jobs that individuals with strong analytical s
     + Project management skills 
     + Knowledge of data modeling and data visualization tools 
   + Average Salary: $79,776 USD 
+  
+## Where to look for jobs that utilze analytics 
+
+There are several different job search websites and resources that can be used to find different types of positions. The websites listed below are helpful to find job postings and help you narrow your search as you look for jobs in the data analytics field.
+
+### LinkedIn 
+
+LinkedIn is great place to connect and network with individuals to reach out to people working in the industry to learn about about different jobs and positions first hand. Additionally, the platform can also be used to find jobs around the world. The platform has a very useful job search feature where you can filter out different specifications that you are interested in such as experience level, company, job type, industry, job function, location, salary, and benefits. 
+
+LinkedIn Job Search: https://www.linkedin.com/jobs/search/ 
+
+### Indeed 
+
+Indeed is a website designed to be a search engine for jobs and allows users to tailor their results to their requirements. Individuals can also upload their resume to the website that company's can view. The site also has a feature where users can be alerted about different jobs postings that can become available depending on their interests and requirements they have selected. 
+
+Indeed: https://www.indeed.com/?from=gnav-title-webapp 
+
+### Ross Recruit 
+
+Ross Recruit is a resource available only to Ross Students where students can make appointments with individuals at the CDO,search for different recruiting events at Ross, and find the contact information for Ross alumni who are working in industry. The website also has a live job posting board where students can search and apply for different jobs. 
+
+Ross Recruit: https://michiganross.12twenty.com/dashboard
+
+### Handshake 
+
+Handshake is a tool that was designed to help college students find jobs by providing students with equal access to meaningful careers. The website allows students to create a profile and connect with employers one-on-one and apply for jobs.  The website also has a calender of events that are available to studenst who attend th University of Michigan. 
+
+Handshake: https://joinhandshake.com/
+
+

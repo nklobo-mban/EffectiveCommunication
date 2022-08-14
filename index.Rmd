@@ -3,7 +3,12 @@ title: "Effective Communication in Analytics Recruiting"
 author: "Team 4WARD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output:
+  bookdown::html_book:
+    theme: bootstrap
+    toc: True
+    toc_float: True
+    css: [toc.css, style.css]
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
@@ -11,18 +16,36 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# Welcome to MBAn!
+# Welcome
+This website is a user friendly guide that prospective, current, and former MBAn and Ross students can utilize when they are looking to apply for different analytics positions that are available in the job market. 
 
-This is a guidance written for prospective **MBAn students at University of Michigan, Stephem M. Ross School of Business**. Congratulations on your excellent academic performance and outstanding leadership that made you a proud Ross MBAn OYM student. 
+The MBAn program is an accelerated fast-paced program that is designed to teach students hard technical and business skills to be able to succeed in a business analyst position. Because of the fast-paced environment, the curriculum cannot cover everything. This website is designed to educate MBAn students and alumni as well as Ross students about different analytical positions and how to communicate effectively during the networking and recruiting process. It is designed to be a resource where students can find information about how to prepare for different types of interviews to ensure that the students are effectively communicating themselves and their brand to secure the best job possible. 
+
+To help students prepare for the  job recruiting process this website has an analytics and data toolbox where students can learn more about different analytics and data terminology and software. The website also provides students with a list of different analytic jobs and information for how students can create strong application materials to ensure that they are effectively communicating their skills and strengths to recruiters and companies. 
+
+To build this website, Team 4Ward has R.Markdown and collaborated by using  GitHub.  Additionally, the team has used resources from the Career Development Office at the Ross School of Business. The team has also compiled and analyzed information from a variety of different resources to create a user-friendly guide that students can use to develop their networking and communication skills to help them get a data or business analytics job. 
+
+Here is a brief overview and direct link to each section of the guidance:
+
+[About us]\: Some information of the author group of this guidance.
+
+[Analytics Toolbox]\: Bunches of useful tools and terms for you to explore to lay a knowledge base to communicate well with professionals.
+
+[Jobs]\: Introduction to each different jobs. It would be crucial to know them better before you reach out to recruiters!
+
+[Application Materials]\: It is important for you to learn how to communicate with recruiters effectively via writing materials.
+
+[Networking]\: It would make your life easier if you can get a referal through networking with alumni and career professionals.
+
+[Interviews]\: This section helps you to obtain some key points to ace your interview.
+
+[Go 4WARD!]\: This section documents how we apply Agile Analytics to do this project and some reflections.
+
 
 <div align= "center"><img src="MBAn.jpg" width="800" height="600" />
 
 Fig.1 MBAn Class of 2023
 </div>
-
-
-
-
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
