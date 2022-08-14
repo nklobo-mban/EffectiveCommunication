@@ -116,3 +116,14 @@ team-norms
 divison-of-work
 implementing-agile-practices
 team-reflection
+<<<<<<< HEAD
+=======
+brainstorming-ideas
+us
+tool
+job
+net
+interview
+id_4
+material
+>>>>>>> fba27d82be7625732f318849a7e8dc5ef4c39152
