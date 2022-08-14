@@ -116,8 +116,6 @@ team-norms
 divison-of-work
 implementing-agile-practices
 team-reflection
-<<<<<<< HEAD
-=======
 brainstorming-ideas
 us
 tool
