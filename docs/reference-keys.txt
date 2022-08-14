@@ -53,7 +53,6 @@ it-systems-analyst
 >>>>>>> 401d6e7836378123ee6bb0aff5fd645419e2ec47
 >>>>>>> 6fcbcf96896e23806e3c4a629c9f0f9b1474f0fd
 analytical-positions
-jobs-that-use-data-analytics
 data-scientist-1
 companies-that-offer-jobs-in-analytics
 section-2
@@ -87,24 +86,14 @@ phone-interviews
 case-interviews
 behavioral-interviews
 technical-interviews
-proper-interview-follow-up-methods
-the-thank-you-note
 the-follow-up-note
 the-feedback-note
-mock-interview-questions
 case
 behavioral
 technical
-story-banks-and-example-responses
 the-star-method
-interview-tips
 go-4ward
-<<<<<<< HEAD
-welcome
 analytics-wordbox
-joe-yuzhou-zhai
-max-hongli-xuan
-jimmy-hao-zhou
 >>>>>>> 128148fac41baf292784a8e25bffd9fd08a6202a
 know-your-desired-outcome-but-start-with-small-talk
 connect-by-asking-rapport-building-questions
@@ -115,7 +104,6 @@ linkedin-searches
 people-you-may-know-section
 linkedin-events
 linkedin-groups
-=======
 the-process
 development-of-our-project-idea
 utlizing-r.markdown-and-github
@@ -128,4 +116,11 @@ team-norms
 divison-of-work
 implementing-agile-practices
 team-reflection
->>>>>>> 8195eeeb49d3cdba9daf3552e4e718d3a2fe0b10
+brainstorming-ideas
+us
+tool
+job
+net
+interview
+id_4
+material
