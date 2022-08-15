@@ -1,6 +1,6 @@
-# Jobs{#job}
+# Jobs
 
-It can be very overwhelming researching, looking, and applying for jobs. In this section of our website, you will find information about different types of jobs that utilize data analytics and what resources to use when you are looking and applying for these types of positions. 
+It can be very overwhelming researching, looking, and applying for jobs. In this section of our website, you will find information about different types of jobs that utilize data analytics and what resources to use when you are looking and applying for these types of analyst positions. 
 
 ## Jobs that Use Data Analytics 
 
