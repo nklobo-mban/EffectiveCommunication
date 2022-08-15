@@ -37,7 +37,7 @@ bayesian-statistics
 stochastic-process
 natural-language-processing-nlp
 deep-learning
-job
+jobs
 jobs-that-use-data-analytics
 business-intelligence-analyst
 data-analyst
@@ -89,8 +89,9 @@ behavioral
 technical
 story-banks-and-example-responses
 the-star-method
+sample-story-banks
 interview-tips
-id_4
+go-4ward
 the-process
 brainstorming-ideas
 utlizing-r.markdown-and-github
@@ -103,14 +104,3 @@ team-norms
 divison-of-work
 implementing-agile-practices
 team-reflection
-<<<<<<< HEAD
-go-4ward
-=======
-analytics-terms
-r.markdown
-github
->>>>>>> 048a1ddefc466442f08cd16235c0b2530ab72cc0
->>>>>>> 9f0d1abd0f08223badddd4b2a8729139ff2300fe
-jobs
-go-4ward4
->>>>>>> f18d7bd8df79f0241dc6f8141816a0998d8a3304

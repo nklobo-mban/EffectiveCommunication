@@ -145,6 +145,7 @@ When answering behavioral questions, or any other story-based questions, one sho
 
 - Results - This is where you show the fruits of your labor. Show what results you achieved and do your best to quantify the effects; you could mention long-term effects of your actions or any other positives that occur, make sure that all results are positive even when discussing a negative situation.
 
+### Sample Story Banks
 1. Procurement System Project
 
 S - Over this summer at RemeGen Biosciences, the head of operations as well as the head of biology wished to integrate a new procurement/inventory management system for the lab.
