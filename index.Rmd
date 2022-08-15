@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
   bookdown::html_book:
-    theme: cosmo
+    theme: bootstrap
     toc: True
     toc_float: True
     css: [toc.css, style.css]

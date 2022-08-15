@@ -1,13 +1,15 @@
-# GO 4WARD!{#4}
+# GO 4WARD!
 
 To create this guide our team followed agile practices and used different skills to work effectively as a team. These skills were mostly developed in the MBAn 501 course. In this section of our website, we will explain the process we went through to build this guide and the different skills and practices we implemented to work as an effective team. Additionally, we will summarize how our team worked together to produce this product and reflect on any improvements that we could have to work better as a team. 
 
 ## The Process
+
 ### Brainstorming Ideas
 
 We initially made our idea as effective communication because we think that would be helpful for the users, because business students are always working with teams. We also picked the topic as our presentation. 
 
 ### Utlizing R.Markdown and GitHub
+
 In order to present a user-friendly and creative guidance, our team leveraged the following R Markdown features:
 
 + timevis package
@@ -23,6 +25,7 @@ In order to present a user-friendly and creative guidance, our team leveraged th
 For GitHub, Joe is responsible for initialization for the working environment. After he set up everything, he helped each member of our team is able to push and pull in r studio to update work to the repository. Besides, we demonstrate our product by using github repository website.
 
 ### Acquiring User Stories 
+
  A third of the way through the development of this project, we conducted interviews with our peers and other Ross students to get an understanding of what type of information the users of this website want and what resources and tools would be helpful to them. To pick these users we thought about the types of individuals that would be looking for information about effective communication. We decided that our users were prospective and current MBAn and Ross students and MBAn and Ross alumni who are looking for jobs in analytics. 
  
 Throughout this process, we found that students do not need to learn how to communicate and collaborate effectively but they want to learn how to communicate effectively when they are networking, writing their resumes, and interviewing for different jobs. This includes learning about specific vocabulary related to data and analytics. Through this interview process we asked our users about what information and resources they felt were not available to them. Once we completed these interviews we met as a team and decided to change the scope of our project. 
@@ -33,6 +36,7 @@ As a team, we utilized the information we gathered during the user story intervi
 
 
 ## Team Development 
+
 ### Team Charter 
 
 Before we began working on our project, we first created a team charter to help create a group purpose and vision. In our charter we detailed goals, team expectations, schedules, and listed strengths and weaknesses of each member. This process made it so that we felt personally connected to the project and helped us attach meaning to it. We were also able to become more connected as a group, learning more about different members and their values.
