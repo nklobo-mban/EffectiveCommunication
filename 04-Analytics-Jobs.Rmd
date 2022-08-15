@@ -7,7 +7,7 @@ It can be very overwhelming researching, looking, and applying for jobs. In this
 There are many different jobs that individuals with strong analytical skills can work in. However, below we have listed ten of the most common jobs that require individuals to have strong analytical and programming skills.  
 
 ### Business Intelligence Analyst 
-  + A business intelligence analyst extracts value from company data to make business decisions. %>% 
+  + A business intelligence analyst extracts value from company data to make business decisions. 
   + Requirements
       + Experience with SQL, python, R, and  data visualization tools
       + Have a good understanding of business practices and finance  
