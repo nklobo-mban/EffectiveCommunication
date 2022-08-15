@@ -1,5 +1,4 @@
-# Interviews
-## Interviews & Preparation
+# Interviews{#interview}
 Job interview is a crucial step of the job application process. Usually, interview processes are between application review and final offer call which will be the step that determines whether the candidate can get an offer. If the candidate gets an interview invitation, the candidate is halfway successful in the job application.
 
 Preparing for an interview means that candidates will need to take time to thoughtfully consider his/her goals and qualifications relative to the position and employer. In order to accomplish this, the candidate must dig into the company and carefully review the job description to understand the fundamental reason that the candidate will be the best fit. 
@@ -79,21 +78,31 @@ Joe Shmoe
 jshmoe@email.com
 
 
-### Mock Interview Questions
 
-## Case
+## Mock Interview Questions
 
+### Case
 Bain - [Coffee Shop Co.](https://www.bain.com/careers/interview-prep/case-library/coffee-case-study/)
+
+In this case one will evaluate the potential of opening a coffee shop, performing market sizing and financial analyses.
 
 BCG - [Chateau Boomerang](https://mconsultingprep.com/case-interview-examples/)
 
+In this case one will create a 3-5 page slide deck in which they examine the U.S wine market for an Australian producer.
+
 Deloitte - [Technology Implementation Strategy](https://caseinterviewprep.deloitte.com/cases/apa/ug/1)
+
+In this case one will recommend a strategy in implementing a new driving technology, focusing on how risk will be mitigated and how to maximize the impact of the technology
 
 Deloitte - [Federal Health Agency](https://caseinterviewprep.deloitte.com/cases/strategy/adv/2)
 
+In this case one is tasked with managing a $1 billion Ebola emergency fund, creating a draft of how the money should be properly divided and used.
+
 Accenture - [Case Interview Workbook](https://caseinterviewprep.deloitte.com/cases/strategy/adv/2)
 
-## Behavioral
+This workbook breaks down how one should approach a case study, giving multiple sample frameworks and practice cases.
+
+### Behavioral
 
 Tell me about yourself / Run me through your resume
 
@@ -105,7 +114,7 @@ Give me an example of a time you faced a conflict with a coworker. How did you h
 
 Tell me about a time you failed. How did you deal with the situation?
 
-## Technical
+### Technical
 
 What coding language are you most comfortable with?
 
@@ -117,8 +126,24 @@ How would you design a touch interface for a device?
 
 Can you give an example of when you acquired a technical skill, and converted it into a practical application?
 
+How many years of SQL programming experience do you have? In your latest job, how many of your analytical projects involved using SQL?
 
-### Story Banks and Example Responses
+NOTE: One should be prepared to demonstrate skills in programming and coding languages such as Python R, etc. and be able to answer questions regarding SQL, Tableau, and Excel. Be prepared for a live examination of skills.  
+
+
+## Story Banks and Example Responses
+
+### The STAR Method
+The STAR Method
+When answering behavioral questions, or any other story-based questions, one should always respond using the STAR method. The STAR method follows is an interview technique in which one lays out the Situation, Task, Action, and Result of a story, giving an interviewer a digestible, yet complete, vision of what one accomplished. One should keep their answers concise, aiming for one to two sentences per letter; however, the most focus should be placed on the Action and Result sections. 
+
+- Situation - Begin your story by setting the scene. You should describe specifics of the event, giving enough details for an interviewer to have a clear picture of what was happening.
+
+- Task - The task section is where we discuss what exactly your role was in the aforementioned  situation. Give specifics of what your responsibilities were and the expectations that were placed on you. Do not use this section to discuss your actions, save this for the next section.
+
+- Action - In this section one will detail exactly how they solved the given problem and the specific steps he/she took. Make sure to avoid vague answers such as, “I worked hard to..”; always give specifics, this is your chance to show off your skills and expertise. 
+
+- Results - This is where you show the fruits of your labor. Show what results you achieved and do your best to quantify the effects; you could mention long-term effects of your actions or any other positives that occur, make sure that all results are positive even when discussing a negative situation.
 
 1. Procurement System Project
 
@@ -141,17 +166,15 @@ A - My co-chair was a newly-joined member and had not experienced previous in-pe
 
 R - With the excitement of events like these we were able to triple our member engagement from the beginning of the pandemic. I was also able to use my newly gained knowledge of virtual events to help the philanthropy chair and the professional chairs respectively in boosting engagement in a virtual 5K and a virtual speaker panel. 
 
+3. Sales Role Strategy
 
-3. Redefine Clothing Brand
+S - In my previous sales role, I was put in charge of the transition to an entirely new customer relationship management (CRM) system—on top of handling my daily sales calls and responsibilities.
 
-S - Seeing the rise in AAPI hate crimes and anti-asian sentiment across America, my two closest friends and I created a clothing brand, Redefine Worldwide, which works to redefine Asian Stereotypes.
+T - The goal was to have the migration to the new CRM database completed by the start of Q3, without letting any of my own sales numbers slip below my targets
 
-T - For the past 6 months i’ve been working to help create our first merchandise collection, which just February 1st on Chinese New Year
+A - In order to do that, I had to be very careful about how I managed my time. So I blocked off an hour on my calendar each day to dedicate solely to the CRM migration. During that time, I worked on transferring the data, as well as cleaning out old contacts and fixing outdated information. Doing this gave me enough time to chip away at that project while still handling my normal tasks.
 
-A - To do this I set up our shopify website, created designs and mocks, worked to expand our social media marketing, and sourced a manufacturer that has worked with the likes of Kanye West and Young Thug. 
-
-R - The culmination of these things has allowed us to generate above $600 in pre-sale profit, and at the end of the month a percentage of our total sales will be donated to ACT TO CHANGE, a nonprofit working to combat AAPI hate crimes. 
-
+R - As a result, the transfer was completed two weeks ahead of deadline and I finished the quarter 10% ahead of my sales goal. The new CRM has also helped us get more organized as a team, and overall our department sales are up 25% year over year.
 
 ## Interview Tips
 
