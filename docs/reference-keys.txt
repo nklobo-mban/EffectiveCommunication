@@ -106,8 +106,6 @@ team-reflection
 <<<<<<< HEAD
 go-4ward
 =======
-<<<<<<< HEAD
-=======
 analytics-terms
 r.markdown
 github
